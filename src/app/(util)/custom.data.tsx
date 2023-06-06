@@ -1,4 +1,4 @@
-import { CustomIcon, CylinderIcon, EnhancementIcon, GuardIcon, LinkedIcon, RecoveryIcon, UserIcon, WhatsapIcon, YoutubeIcon } from "../(icons)";
+import { CustomIcon, CylinderIcon, EnhancementIcon, GuardIcon, LeafIcon, LinkedIcon, RecoveryIcon, SupportIconAudio, UserIcon, UserIconService, WhatsapIcon, YoutubeIcon } from "../(icons)";
 
 export interface ILink {
     id: string;
@@ -6,8 +6,7 @@ export interface ILink {
     link_url: string;
 }
 export const links: ILink[] = [
-    { id: '#1', link_title: 'Home', link_url: '/' },
-    { id: '#2', link_title: 'Products', link_url: '/products' },
+    { id: '#2', link_title: 'Products', link_url: '/' },
     { id: '#3', link_title: 'About us', link_url: '/about' },
     { id: '#4', link_title: 'Contact us', link_url: '/contact' },
     { id: '#5', link_title: 'Blog', link_url: '/blog' },
@@ -234,5 +233,28 @@ export const SupportLinks = [
         id: 5,
         title: 'Become a partner',
         url: '/partner'
+    }
+]
+export const ServicesOfferArr = [
+    {
+        id: 1,
+        title: 'Environmental Solutions',
+        icon: <LeafIcon />,
+        description: 'Including the safe and ethical disposal of surplus chemicals, asset recovery, and facilitating the buying and selling of surplus chemicals through our online platform. With our services, you can turn your surplus chemicals into a source of revenue while reducing disposal costs.',
+        color: '#8001FF'
+    },
+    {
+        id: 2,
+        title: 'Personalized Support',
+        icon: <SupportIconAudio />,
+        description: 'Our team of experts works closely with you to develop a plan that aligns with your sustainability goals while also maximizing asset recovery. Our solutions help reduce your carbon footprint, improve your environmental impact, and enhance your reputation as a responsible corporate citizen.',
+        color: '#0047FF'
+    },
+    {
+        id: 3,
+        title: 'Customer Satisfaction',
+        icon: <UserIconService />,
+        description: 'Our state-of-the-art facilities and experienced team ensure that your surplus chemicals are managed safely and efficiently, and we guarantee compliance with all relevant environmental regulations.',
+        color: '#FF0099'
     }
 ]
