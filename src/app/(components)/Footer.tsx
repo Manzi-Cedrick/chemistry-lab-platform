@@ -3,6 +3,7 @@ import LogoSvg from '../(icons)/logosvg'
 import { AboutServiceLinks, ISocialMedia, SocialMediaArr, SupportLinks } from '../(util)/custom.data'
 import Link from 'next/link'
 import Section from '../(layout)/pagelayout'
+import { CallIcon, EmailIcon } from '../(icons)'
 
 const Footer = () => {
     return (
@@ -49,8 +50,8 @@ const Footer = () => {
                     <div>
                         <h1 className='font-semibold'>Contact</h1>
                         <ul className='text-main text-[14px] font-normal py-4 flex flex-col gap-4 list-none'>
-                            <li className='hover:text-underline origin-center gap-4 duration-300'><span></span><span>info@Company.com</span></li>
-                            <li className='hover:text-underline origin-center gap-4 duration-300'><span></span><span>000-000-000</span></li>
+                            <li className='hover:text-underline origin-center flex justify-start gap-4 duration-300'><span><CallIcon fill="#0A5DAB"/></span><span>info@Company.com</span></li>
+                            <li className='hover:text-underline origin-center flex justify-start gap-4 duration-300'><span><EmailIcon /></span><span>000-000-000</span></li>
                         </ul>
                     </div>
                 </div>
