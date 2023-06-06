@@ -1,0 +1,22 @@
+{
+    "hero" : {
+        "title": "A platform for environment solutions and surplus chemicals.",
+        "body": "compnay is an online platform offering environmental solutions for the sustainable management of surplus chemicals, connecting businesses with a streamlined and eco-friendly process for buying and selling chemicals."
+    },
+    "companymanage" : {
+        "title": "What Can Company  Manage?"
+    },
+    "partnersection" : {
+        "title": "Why  company is the preferred environmental solutions partner?",
+        "body": "By partnering with Company , businesses can enjoy these benefits while reducing their environmental impact and contributing to a more sustainable future."
+    },
+    "contact" : {
+        "title": "Are you tiered of looking for customers of your surplus chemicals ?",
+        "body": "Sign up now to list your surplus chemicals so that your product goes to right customer."
+    },
+    "footerreference": {
+        "title": "Get In Touch With Us",
+        "body": "At our e-commerce site, we value your satisfaction above all else. Contact us with any concerns or feedback and we will work tirelessly to ensure your shopping experience is top-notch.",
+        "secondtitle": "Help us reduce carbon foot print now."
+    }
+}
