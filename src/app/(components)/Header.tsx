@@ -4,7 +4,7 @@ import LogoSvg from '../(icons)/logosvg'
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { ILink, links } from '../(util)/custom.data';
-import { CartIcon, CloseToggle, MenuIcon } from '../(icons)';
+import { CallIcon, CartIcon } from '../(icons)';
 
 const Header = () => {
     const [ShowLinks, setShowLinks] = useState<boolean>(false);
@@ -17,8 +17,8 @@ const Header = () => {
     return (
         <header className='bg-white z-20 fixed top-0 left-0 right-0'>
             <div className='border-2 w-full bg-white flex justify-center md:justify-end place-items-center px-20 py-4 border-slate-200'>
-                <p className='text-[12px] font-bold text-slate-500'>
-                    <span></span>
+                <p className='text-[12px] flex justify-center place-items-center gap-2 font-bold text-slate-500'>
+                    <span><CallIcon fill="none"/></span>
                     <span>Call us now:</span>
                     <span className='text-main'>000-000-000</span>
                 </p>
