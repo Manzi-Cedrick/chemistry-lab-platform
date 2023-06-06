@@ -1,8 +1,8 @@
-import VideoBased from './(components)/AdVideoBased'
-import CompanyManage from './(components)/CompanyManage'
-import PartnerSection from './(components)/Partner'
+import VideoBased from './(components)/(home)/AdVideoBased'
+import CompanyManage from './(components)/(home)/CompanyManage'
+import PartnerSection from './(components)/(home)/Partner'
 import FooterReference from './(components)/FooterReference'
-import Hero from './(components)/Hero'
+import Hero from './(components)/(home)/Hero'
 import Contact from './(components)/Contact'
 import { Metadata } from 'next'
 
