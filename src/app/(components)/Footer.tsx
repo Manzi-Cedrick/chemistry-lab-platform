@@ -8,7 +8,7 @@ import { CallIcon, EmailIcon } from '../(icons)'
 const Footer = () => {
     return (
         <Section className='py-10 min-h-[30vh] relative md:px-[2em]' >
-            <div className='flex flex-col justify-center   text-center md:text-left md:flex-row mx-auto px-10 lg:px-0 gap-6'>
+            <div className='flex flex-col justify-around text-left md:text-left md:flex-row mx-auto px-10 lg:px-0 gap-6'>
                 <div className='text-black font-bold flex gap-8 flex-col text-[14px] lg:text-[16px]'>
                     <div className='h-12'>
                         <LogoSvg />
@@ -26,33 +26,35 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <div className='flex-1 font-bold flex gap-8 flex-col text-[14px] lg:text-[16px]'>
-                    <h1 className='font-semibold'>About and Service</h1>
-                    <ul className='text-main text-[14px] font-normal py-4 flex flex-col gap-4 list-none'>
-                        {AboutServiceLinks && AboutServiceLinks.map((link) => (
-                            <li key={link.id} className='hover:text-underline origin-center duration-300'><Link href={link.url}>{link.title}</Link></li>
-                        ))}
-                    </ul>
-                </div>
-                <div className='flex-1 font-bold flex gap-8 flex-col  text-[14px] lg:text-[16px]'>
-                    <h1 className='font-semibold'>Support</h1>
-                    <ul className='text-main text-[14px] font-normal py-4 flex flex-col gap-4 list-none'>
-                        {SupportLinks && SupportLinks.map((link) => (
-                            <li key={link.id} className='hover:text-underline origin-center duration-300'><Link href={link.url}>{link.title}</Link></li>
-                        ))}
-                    </ul>
-                </div>
-                <div className='flex-1 font-bold flex gap-8 flex-col text-[14px] lg:text-[16px]'>
-                    <h1 className='font-semibold'>Sign in</h1>
-                    <ul className='text-main text-[14px] font-normal py-4 flex flex-col gap-4 list-none'>
-                        <li className='hover:text-underline origin-center duration-300'><Link href={'/auth/login'}>{'Sign In Now'}</Link></li>
-                    </ul>
-                    <div>
-                        <h1 className='font-semibold'>Contact</h1>
-                        <ul className='text-main text-[14px] font-normal py-4 flex flex-col gap-4 list-none'>
-                            <li className='hover:text-underline origin-center flex justify-start gap-4 duration-300'><span><CallIcon fill="#0A5DAB"/></span><span>info@Company.com</span></li>
-                            <li className='hover:text-underline origin-center flex justify-start gap-4 duration-300'><span><EmailIcon /></span><span>000-000-000</span></li>
+                <div className='flex min-w-[50vw] md:flex-row flex-col gap-6'>
+                    <div className='flex-1 font-bold flex gap-4 flex-col text-[14px] lg:text-[16px]'>
+                        <h1 className='font-semibold'>About and Service</h1>
+                        <ul className='text-main text-[14px] font-normal flex flex-col gap-4 list-none'>
+                            {AboutServiceLinks && AboutServiceLinks.map((link) => (
+                                <li key={link.id} className='hover:text-underline origin-center duration-300'><Link href={link.url}>{link.title}</Link></li>
+                            ))}
                         </ul>
+                    </div>
+                    <div className='flex-1 font-bold flex gap-4 flex-col  text-[14px] lg:text-[16px]'>
+                        <h1 className='font-semibold'>Support</h1>
+                        <ul className='text-main text-[14px] font-normal flex flex-col gap-4 list-none'>
+                            {SupportLinks && SupportLinks.map((link) => (
+                                <li key={link.id} className='hover:text-underline origin-center duration-300'><Link href={link.url}>{link.title}</Link></li>
+                            ))}
+                        </ul>
+                    </div>
+                    <div className='flex-1 font-bold flex gap-4 flex-col text-[14px] lg:text-[16px]'>
+                        <h1 className='font-semibold'>Sign in</h1>
+                        <ul className='text-main text-[14px] font-normal flex flex-col gap-4 list-none'>
+                            <li className='hover:text-underline origin-center duration-300'><Link href={'/auth/login'}>{'Sign In Now'}</Link></li>
+                        </ul>
+                        <div>
+                            <h1 className='font-semibold'>Contact</h1>
+                            <ul className='text-main text-[14px] font-normal py-4 flex flex-col gap-4 list-none'>
+                                <li className='hover:text-underline origin-center flex justify-start gap-4 duration-300'><span><CallIcon fill="#0A5DAB" /></span><span>info@Company.com</span></li>
+                                <li className='hover:text-underline origin-center flex justify-start gap-4 duration-300'><span><EmailIcon /></span><span>000-000-000</span></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
