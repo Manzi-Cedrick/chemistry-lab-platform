@@ -1,22 +1,41 @@
 {
-    "hero" : {
-        "title": "A platform for environment solutions and surplus chemicals.",
-        "body": "compnay is an online platform offering environmental solutions for the sustainable management of surplus chemicals, connecting businesses with a streamlined and eco-friendly process for buying and selling chemicals."
+    "home": {
+        "hero": {
+            "title": "A platform for environment solutions and surplus chemicals.",
+            "body": "compnay is an online platform offering environmental solutions for the sustainable management of surplus chemicals, connecting businesses with a streamlined and eco-friendly process for buying and selling chemicals."
+        },
+        "companymanage": {
+            "title": "What Can Company  Manage?"
+        },
+        "partnersection": {
+            "title": "Why  company is the preferred environmental solutions partner?",
+            "body": "By partnering with Company , businesses can enjoy these benefits while reducing their environmental impact and contributing to a more sustainable future."
+        },
+        "contact": {
+            "title": "Are you tiered of looking for customers of your surplus chemicals ?",
+            "body": "Sign up now to list your surplus chemicals so that your product goes to right customer."
+        },
+        "footerreference": {
+            "title": "Get In Touch With Us",
+            "body": "At our e-commerce site, we value your satisfaction above all else. Contact us with any concerns or feedback and we will work tirelessly to ensure your shopping experience is top-notch.",
+            "secondtitle": "Help us reduce carbon foot print now."
+        }
     },
-    "companymanage" : {
-        "title": "What Can Company  Manage?"
-    },
-    "partnersection" : {
-        "title": "Why  company is the preferred environmental solutions partner?",
-        "body": "By partnering with Company , businesses can enjoy these benefits while reducing their environmental impact and contributing to a more sustainable future."
-    },
-    "contact" : {
-        "title": "Are you tiered of looking for customers of your surplus chemicals ?",
-        "body": "Sign up now to list your surplus chemicals so that your product goes to right customer."
-    },
-    "footerreference": {
-        "title": "Get In Touch With Us",
-        "body": "At our e-commerce site, we value your satisfaction above all else. Contact us with any concerns or feedback and we will work tirelessly to ensure your shopping experience is top-notch.",
-        "secondtitle": "Help us reduce carbon foot print now."
+    "about": {
+        "abouthero": {
+            "title": "About Us",
+            "body": "Welcome to Company, your trusted partner in sustainable and eco-friendly management of surplus chemicals.Our platform is designed to help Organizations reduce their environmental footprint and recover assets by managing their surplus chemicals responsibly."
+        },
+        "services": {
+            "title": "What Do We Offer?"
+        },
+        "founders": {
+            "title": "Founders",
+            "body": "At Company, our founders bring over 20 years of experience in the chemical industry, making us leaders in environmental solutions. With expertise in chemistry, engineering, and supply chain management, we understand the complexities of surplus chemical management. Our team's diverse background enables us to deliver tailored solutions to meet your unique needs. We are passionate about sustainability and empowering businesses to reduce their environmental impact. With our industry knowledge and commitment to environmental responsibility, Company is your trusted partner in managing surplus chemicals sustainably."
+        },
+        "costeffective": {
+            "title": "Cost-effective",
+            "body": "Company offers cost-effective solutions for businesses to manage their surplus chemicals through asset recovery and eco-friendly disposal methods, reducing disposal costs and turning surplus chemicals into a source of revenue."
+        }
     }
 }
