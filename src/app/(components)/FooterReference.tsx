@@ -1,10 +1,10 @@
 import React from 'react'
 import Section from '../(layout)/pagelayout'
-import { ArrowIcon, WhatsapIcon } from '../(icons)'
+import { ArrowIcon, BookMarkIcon, SearchIcon, WhatsapIcon } from '../(icons)'
 import jsonData from '../(util)/text.json'
 
 const FooterReference = () => {
-    const { title, body, secondtitle } = jsonData.footerreference
+    const { title, body, secondtitle } = jsonData.home.footerreference
     return (
         <Section className='flex py-20 flex-col justify-center place-items-center'>
             <div className='bg-gradient1 rounded-md text-white p-4 md:p-8 w-full md:max-w-[60vw]'>
@@ -20,8 +20,8 @@ const FooterReference = () => {
             <div>
                 <p className='font-bold text-main py-10 text-[14px] md:text-3xl text-center'>{secondtitle}</p>
                 <div className='flex flex-col md:flex-row gap-10'>
-                    <button className='text-white text-[12px] md:text-base flex justify-between gap-4 place-items-center bg-gradient1 rounded-md font-medium  px-16 py-6'>Find Surplus Chemical <span><ArrowIcon /></span></button>
-                    <button className='text-white text-[12px] md:text-base flex justify-between place-items-center bg-gradient2 px-16 rounded-md font-medium py-6'>Sell your Surpluses <span><ArrowIcon /></span></button>
+                    <button className='text-white flex justify-between gap-4 place-items-center bg-gradient1 rounded-md font-semibold relative px-10 py-6'><span className='absolute left-10 top-0'><SearchIcon /></span>Find Surplus Chemical <span><ArrowIcon /></span></button>
+                    <button className='text-white flex justify-between place-items-center bg-gradient2 px-10 rounded-md font-medium py-6 relative'><span className='absolute left-4 top-0'><BookMarkIcon /></span>Sell your Surpluses <span><ArrowIcon /></span></button>
                 </div>
             </div>
         </Section>
