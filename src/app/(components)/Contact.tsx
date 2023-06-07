@@ -6,12 +6,12 @@ import ContactForm from './ContactForm'
 import { RightSideBlob } from '../(icons)'
 
 const Contact = () => {
-    const { title, body } = jsonData.contact
+    const { title, body } = jsonData.home.contact
     return (
         <Section className='py-10 relative'>
             <div className='flex md:flex-row flex-col justify-between'>
                 <div className='z-10 md:max-w-[50vw] pt-[2em] md:pr-[10em]'>
-                    <h1 className='text-5xl text-main font-extrabold'>{title}</h1>
+                    <h1 className='text-3xl text-secondary font-extrabold'>{title}</h1>
                     <p className='py-6'>{body}</p>
                 </div>
                 <div className='bg-white z-10 shadow-md shadow-slate-200 p-6'>
