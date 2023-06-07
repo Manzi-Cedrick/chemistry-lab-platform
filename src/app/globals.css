@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -7,8 +7,15 @@
   box-sizing: border-box;
   padding: 0%;
   margin: 0;
-  font-family: "Inter", sans-serif
+  font-family: "Open Sans", sans-serif;
+}
+.shadow-box {
+  box-shadow: 0px 4.885px 18.3187px rgba(0, 0, 0, 0.1);
 }
 .highlight {
-  color: #0A5DAB;
+  color: #0a5dab;
+}
+.border-resize{
+  border-bottom-left-radius: 56%;
+  border-bottom-right-radius: 10%;
 }
