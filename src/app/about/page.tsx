@@ -4,6 +4,7 @@ import HeroSection from '../(components)/AboutHero'
 import Services from '../(components)/(about)/services'
 import CostEffective from '../(components)/(about)/CostEffective'
 import FooterReferenceOther from '../(components)/(about)/FooterReferenceOther'
+import Founders from '../(components)/(about)/founders'
 
 export const metadata: Metadata = {
     title: 'Psurplus About Us Page!',
@@ -15,6 +16,7 @@ const About = () => {
         <main>
             <HeroSection />
             <Services />
+            <Founders />
             <CostEffective />
             <FooterReferenceOther />
         </main>
