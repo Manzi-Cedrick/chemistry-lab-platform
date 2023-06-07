@@ -5,22 +5,22 @@ import Image from 'next/image'
 import jsonData from '../../(util)/text.json'
 
 const PartnerSection = () => {
-    const { title, body } = jsonData.partnersection
+    const { title, body } = jsonData.home.partnersection
     return (
         <Section className='py-20'>
             <div className='text-left z-10'>
-                <h1 className='text-3xl text-main font-bold'>{title}</h1>
+                <h1 className='text-3xl text-secondary md:text-5xl font-bold'>{title}</h1>
             </div>
             <div className='grid z-10 py-10 lg:grid-cols-4 grid-cols-1 sm:grid-cols-2 gap-6 place-items-center justify-center'>
                 {AssetsArr && AssetsArr.map((asset: IPreferedAssets) => {
                     return (
-                        <div key={asset.id} className='bg-white rounded-md md:max-w-[32vw] flex flex-col lg:min-h-[36vh] gap-6 place-items-center shadow-md shadow-[#0000001e] p-6'>
+                        <div key={asset.id} className='bg-white rounded-md md:max-w-[32vw] flex flex-row w-full md:flex-col lg:min-h-[36vh] gap-6 place-items-center shadow-box p-6'>
                             <div>
                                 <span className={`text-white bg-[#F0F0F0] flex place-items-center justify-center font-bold h-12 w-12 rounded-md`}>{asset.icon}</span>
                             </div>
                             <div>
                                 <h1 className={`font-bold`}>{asset.title}</h1>
-                                <p className='text-[14px] py-4'>{asset.description}</p>
+                                <p className='text-[14px] md:flex hidden py-4'>{asset.description}</p>
                             </div>
                         </div>
                     )
