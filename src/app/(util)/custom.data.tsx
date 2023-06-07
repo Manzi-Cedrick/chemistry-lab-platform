@@ -241,20 +241,23 @@ export const ServicesOfferArr = [
         title: 'Environmental Solutions',
         icon: <LeafIcon />,
         description: 'Including the safe and ethical disposal of surplus chemicals, asset recovery, and facilitating the buying and selling of surplus chemicals through our online platform. With our services, you can turn your surplus chemicals into a source of revenue while reducing disposal costs.',
-        color: '#8001FF'
+        color: '#F0DDFF',
+        text_color: '#8001FF'
     },
     {
         id: 2,
         title: 'Personalized Support',
         icon: <SupportIconAudio />,
         description: 'Our team of experts works closely with you to develop a plan that aligns with your sustainability goals while also maximizing asset recovery. Our solutions help reduce your carbon footprint, improve your environmental impact, and enhance your reputation as a responsible corporate citizen.',
-        color: '#0047FF'
+        color: '#D0DDFF',
+        text_color: '#0047FF',
     },
     {
         id: 3,
         title: 'Customer Satisfaction',
         icon: <UserIconService />,
         description: 'Our state-of-the-art facilities and experienced team ensure that your surplus chemicals are managed safely and efficiently, and we guarantee compliance with all relevant environmental regulations.',
-        color: '#FF0099'
+        color: '#FFDDF1',
+        text_color: '#FF0099'
     }
 ]
