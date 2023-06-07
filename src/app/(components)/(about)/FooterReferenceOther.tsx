@@ -4,7 +4,7 @@ import { ArrowIcon, WhatsapIcon } from '../../(icons)'
 import jsonData from '../../(util)/text.json'
 
 const FooterReferenceOther = () => {
-    const { title, body, secondtitle } = jsonData.footerreference
+    const { title, body, secondtitle } = jsonData.home.footerreference
     return (
         <Section className='flex py-20 flex-col justify-center place-items-center'>
             <div className='bg-[#E5F8FF] rounded-md text-black p-4 md:p-8 w-full md:max-w-[60vw]'>
