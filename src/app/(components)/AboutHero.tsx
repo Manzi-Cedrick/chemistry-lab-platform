@@ -6,7 +6,7 @@ const HeroSection = () => {
     const { title, body } = jsonData.about.abouthero;
     return (
         <Section className='relative flex justify-start min-h-[80vh] pt-20'>
-            <div className='hidden md:absolute top-[5em] md:top-0 left-0 right-0'>
+            <div className='hidden sm:flex sm:absolute top-[0em] md:top-0 left-0 right-0'>
                 <UpperBlobIcon/>
             </div>
             <div className='z-10 pt-32 md:pt-40 text-center md:px-20'>
