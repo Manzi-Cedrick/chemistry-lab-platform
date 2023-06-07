@@ -1,16 +1,19 @@
 import { LeftBlobSvg } from '@/app/(icons)'
 import Section from '@/app/(layout)/pagelayout'
 import React from 'react'
-
+import jsonData from '../../(util)/text.json'
 const Founders = () => {
+    const { title, body } = jsonData.about.founders
     return (
-        <Section className='relative'>
-            <div className='absolute -top-[0em] left-0'>
-                <LeftBlobSvg />
-            </div>
-            <div className='z-10 pt-40 text-center px-20'>
-                <h1 className='text-5xl text-main font-extrabold'>{'Founders'}</h1>
-                <p className='py-6 text-[18px] text-slate-600'>{'At Company, our founders bring over 20 years of experience in the chemical industry, making us leaders in environmental solutions. With expertise in chemistry, engineering, and supply chain management, we understand the complexities of surplus chemical management. Our team s diverse background enables us to deliver tailored solutions to meet your unique needs. We are passionate about sustainability and empowering businesses to reduce their environmental impact. With our industry knowledge and commitment to environmental responsibility, Company is your trusted partner in managing surplus chemicals sustainably'}</p>
+        <Section className='relative min-h-[60vh] py-20'>
+            <div className='flex justify-center place-items-center flex-row gap-4'>
+                <div className='absolute -left-[30em] lg:left-0 top-0'>
+                    <LeftBlobSvg />
+                </div>
+                <div className='z-10 px-0 text-center md:px-20 md:pr-[4em]'>
+                    <h1 className='text-3xl md:text-5xl title text-[#032D60] font-bold'>{title}</h1>
+                    <p className='py-8'>{body}</p>
+                </div>
             </div>
         </Section>
     )
