@@ -37,5 +37,115 @@
             "title": "Cost-effective",
             "body": "Company offers cost-effective solutions for businesses to manage their surplus chemicals through asset recovery and eco-friendly disposal methods, reducing disposal costs and turning surplus chemicals into a source of revenue."
         }
+    },
+    "contact": {
+        "hero": {
+            "title": "Contact",
+            "body": "Welcome to Company, your trusted partner in sustainable and eco-friendly management of surplus chemicals."
+        }
+    },
+    "faq": {
+        "hero": {
+            "title": "Frequently Asked Questions",
+            "body": "Welcome to Company, your trusted partner in sustainable and eco-friendly management of surplus chemicals."
+        },
+        "data": {
+            "General FAQ": [
+                {
+                    "question": "What can be done on Company platform ?",
+                    "answer": "On the Company platform, sellers can list their surplus chemicals for sale, while buyers can browse and purchase surplus chemicals. The platform also facilitates the safe and ethical disposal of surplus chemicals and asset recovery. Users can create an account to increase visibility for their surplus chemicals and connect with potential buyers. Additionally, the platform provides customized solutions tailored to the unique needs of businesses to maximize asset recovery and sustainability goals."
+                },
+                {
+                    "question": "What items can be listed on Company platform ?",
+                    "answer": "On the Company platform, businesses can list a variety of surplus chemicals including solvents, acids, bases, laboratory chemicals, and other hazardous or non-hazardous materials."
+                },
+                {
+                    "question": "What can I buy from Company platform?",
+                    "answer": "You can buy a wide range of surplus chemicals and other materials from Company platform, including solvents, acids, bases, laboratory chemicals, and other hazardous or non-hazardous materials. Additionally, we also offer the opportunity to purchase surplus equipment and other assets that may be useful to your business. Our platform is constantly updated with new listings, so you can find the items you need at a competitive price while also supporting sustainable practices."
+                },
+                {
+                    "question": "Is Company membership free of charge?",
+                    "answer": "Yes, Company membership is free of charge. However, there may be fees associated with specific services such as the sale or purchase of chemicals. These fees are outlined in our Terms and Conditions and can vary depending on the nature of the service provided."
+                },
+                {
+                    "question": "Will my company information be visible on the Company platform?",
+                    "answer": "No, for security and privacy reasons, no seller or buyer information will be visible on thecompany.com."
+                }
+            ],
+            "Customer FAQ": [
+                {
+                    "question": "How can I request a price for items listed on the Company platform?",
+                    "answer": "To request a price for items listed on the Company platform, simply click on the Request a Quote button on the product page and fill out the form. We will then get back to you with a price via email. Alternatively, you can contact us at info@company.com for more information."
+                },
+                {
+                    "question": "What should I do if I need more information about particular item?",
+                    "answer": "If you need more information about a particular item listed on company.com, you can contact us by filling out the inquiry form on the item's page, or by sending an email to info@company.com. Our team will be happy to provide you with any additional information you need."
+                },
+                {
+                    "question": "Is there any guarantee of products quality ?",
+                    "answer": "As a platform for the buying and selling of surplus chemicals, Company cannot guarantee the quality of the products listed on company.com. However, we encourage buyers to thoroughly review the product description and inquire with the seller if additional information is needed before making a purchase."
+                }
+            ],
+            "Seller FAQ": [
+                {
+                    "question": "How to list a product on company.com?",
+                    "answer": "To list a product on the Company website, you need to create an account and log in. Once logged in, click on the `Sell` button and enter the details of the product, such as the name, description, quantity, condition, and any other relevant information. You will also need to provide a picture of the product. Once the product is listed, interested buyers can make an offer or request more information."
+                },
+                {
+                    "question": "Do I have to pay fees to list a product on company.com?",
+                    "answer": "Creating an account on our platform is free of charge, and there are no fees associated with listing your surplus chemicals for sale. However, our team of experts will work closely with you to develop a customized plan for managing your surplus chemicals, and fees may apply for some of our other services. Contact us today to learn more."
+                },
+                {
+                    "question": "Do I have to be committed to sell my product through psurplus after listing it?",
+                    "answer": "As Company is a marketplace platform, you are not obligated to sell your product through company.com after listing it. You have the flexibility to choose when and to whom you sell your products, and you can choose to remove your listing from the platform at any time."
+                },
+                {
+                    "question": "How long does my product listing remain on company.com?",
+                    "answer": "Creating an account on our platform is free of charge, and there are no fees associated with listing your surplus chemicals for sale. However, our team of experts will work closely with you to develop a customized plan for managing your surplus chemicals, and fees may apply for some of our other services. Contact us today to learn more."
+                },
+                {
+                    "question": "Do I have to set an asking price for my listing?",
+                    "answer": "As an seller, you can set an asking price for your listing, but it is not mandatory. However, keep in mind that having a price listed can help attract potential buyers and speed up the negotiation process. If you choose not to set an asking price, interested buyers can still request a quote through the platform."
+                },
+                {
+                    "question": "Can I edit product information i have listed already?",
+                    "answer": "Yes, you can edit the product information of your listing at any time. Simply log in to your account, navigate to the product listing, and click on the edit button. You can make any necessary changes to the product description, price, quantity, or any other relevant information.However, please note that the changes made will need to be approved by our team before they are visible on company.com. This ensures that all information provided is accurate and up-to-date."
+                },
+                {
+                    "question": "Can my product listing be removed ?",
+                    "answer": "If you want to remove a product listing from the Company platform, you can either delete it yourself using your account dashboard or contact us and we will assist you."
+                },
+                {
+                    "question": "How will I receive offers on my listing ?",
+                    "answer": "You will receive offers on your listing via email from one of our account managers."
+                }
+            ],
+            "Shipping FAQs": [
+                {
+                    "question": "What are the shipping options for my products As a seller at company.com ?",
+                    "answer": "As a seller on Company, you have the flexibility to choose between two options for product collection - Ex Works or delivery to one of our warehouses. We also operate internationally and can collect surplus chemicals from anywhere in the world. This means that you can easily sell your surplus chemicals to a global market and expand your reach beyond your local region. Our experienced team will handle the logistics and ensure that your products are safely and securely transported to their destination."
+                },
+                {
+                    "question": "What are the shipping options for my products As a Buyer at company.com ?",
+                    "answer": "We can arrange shipping for your purchased items to your desired location, both domestically and internationally. Shipping costs will depend on the weight, dimensions, and destination of the product."
+                },
+                {
+                    "question": "How do I arrange shipping for my purchased item?",
+                    "answer": "Once you have completed the purchase, you can contact us to arrange shipping. We will provide you with a shipping quote based on the weight, dimensions, and destination of the product. Once the shipping cost is agreed upon, we will arrange for the product to be shipped to your desired location."
+                },
+                {
+                    "question": "What are the shipping options available?",
+                    "answer": "We offer a range of shipping options, including ground, air, and sea shipping. The shipping method will depend on the weight, dimensions, and destination of the product. We can provide you with a range of shipping options to choose from based on your requirements."
+                },
+                {
+                    "question": "Is shipping insurance available ?",
+                    "answer": "Yes, shipping insurance is available at an additional cost. Please contact us for more information on shipping insurance options."
+                },
+                {
+                    "question": "Who is responsible for customs duties and taxes?",
+                    "answer": "The buyer is responsible for any customs duties and taxes associated with the import of the product. These costs are not included in the shipping cost and will be the responsibility of the buyer. Please check with your local customs office for more information on customs duties and taxes."
+                }
+            ]
+        }
     }
 }
