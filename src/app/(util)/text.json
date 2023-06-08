@@ -147,5 +147,17 @@
                 }
             ]
         }
+    },
+    "jointeam": {
+        "hero": {
+            "title": "Join Our Team",
+            "body": "Welcome to Company, your trusted partner in sustainable and eco-friendly management of surplus chemicals."
+        }
+    },
+    "blog": {
+        "hero": {
+            "title": "How to sell the products on Company: learn the art of selling",
+            "body": "Welcome to Company, your trusted partner in sustainable and eco-friendly management of surplus chemicals. Subscribe to our newsletter."
+        }
     }
 }
