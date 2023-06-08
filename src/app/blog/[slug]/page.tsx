@@ -6,7 +6,7 @@ import React from 'react'
 
 const Blog = () => {
     return (
-        <Section className='relative lg:px-24 flex justify-start  pt-20'>
+        <Section className='relative lg:px-24 flex justify-start'>
             <div className='hidden sm:flex sm:absolute top-[0em] md:top-0 left-0 right-0'>
                 <UpperBlobIcon />
             </div>
