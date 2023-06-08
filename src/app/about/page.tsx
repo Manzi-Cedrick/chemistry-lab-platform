@@ -1,10 +1,10 @@
 import { Metadata } from 'next'
 import React from 'react'
-import HeroSection from '../(components)/AboutHero'
 import Services from '../(components)/(about)/services'
 import CostEffective from '../(components)/(about)/CostEffective'
 import FooterReferenceOther from '../(components)/(about)/FooterReferenceOther'
 import Founders from '../(components)/(about)/founders'
+import AboutSection from '../(components)/AboutHero'
 
 export const metadata: Metadata = {
     title: 'Psurplus About Us Page!',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 const About = () => {
     return (
         <main>
-            <HeroSection />
+            <AboutSection />
             <Services />
             <Founders />
             <CostEffective />
