@@ -5,7 +5,7 @@ import { UpperBlobIcon } from '../(icons)';
 const AboutSection = () => {
     const { title, body } = jsonData.about.abouthero;
     return (
-        <Section className='relative flex justify-start min-h-[80vh] pt-20'>
+        <Section className='relative flex justify-start min-h-[80vh] '>
             <div className='hidden sm:flex sm:absolute top-[0em] md:top-0 left-0 right-0'>
                 <UpperBlobIcon/>
             </div>

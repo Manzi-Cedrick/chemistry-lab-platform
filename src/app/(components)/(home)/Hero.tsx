@@ -10,7 +10,7 @@ const Hero = () => {
         '<span class="highlight">surplus</span>'
     );
     return (
-        <Section className='relative mt-[8em] flex justify-around flex-col pt-20'>
+        <Section className='relative flex justify-around flex-col pt-20'>
             <div className='flex place-items-center py-10 flex-col md:flex-row justify-between'>
                 <div className='flex flex-row gap-4'>
                     <div className='absolute -left-[30em] lg:left-0 top-0'>
