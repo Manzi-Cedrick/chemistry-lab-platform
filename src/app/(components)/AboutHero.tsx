@@ -2,7 +2,7 @@ import React from 'react'
 import Section from '../(layout)/pagelayout'
 import jsonData from '../(util)/text.json'
 import { UpperBlobIcon } from '../(icons)';
-const HeroSection = () => {
+const AboutSection = () => {
     const { title, body } = jsonData.about.abouthero;
     return (
         <Section className='relative flex justify-start min-h-[80vh] pt-20'>
@@ -17,4 +17,4 @@ const HeroSection = () => {
     )
 }
 
-export default HeroSection
+export default AboutSection
