@@ -8,6 +8,7 @@
   padding: 0%;
   margin: 0;
   font-family: "Open Sans", sans-serif;
+  scroll-behavior: smooth;
 }
 .shadow-box {
   box-shadow: 0px 4.885px 18.3187px rgba(0, 0, 0, 0.1);
@@ -18,4 +19,9 @@
 .border-resize{
   border-bottom-left-radius: 56%;
   border-bottom-right-radius: 10%;
+}
+.nav-section{
+  background: rgba(128, 128, 128, 0.226);
+  color:#0a5dab;
+  box-shadow: 0px 4.885px 18.3187px rgba(0, 0, 0, 0.1);
 }
