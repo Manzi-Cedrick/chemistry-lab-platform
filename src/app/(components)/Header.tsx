@@ -15,7 +15,7 @@ const Header = () => {
         }
     }
     return (
-        <header className='bg-white z-20'>
+        <header className='bg-white'>
             <div className='border-2 w-full bg-white flex justify-center md:justify-end place-items-center px-20 py-4 border-slate-200'>
                 <p className='text-[12px] flex justify-center place-items-center gap-2 font-bold text-slate-500'>
                     <span><CallIcon fill="none"/></span>
@@ -37,10 +37,10 @@ const Header = () => {
                         <button className={`btn lg:flex border-solid hover:bg-main text-white duration-600 bg-main text-whit justify-center rounded-md py-3 text-[12px] px-10 font-semibold  ${ShowLinks ? 'flex' : 'hidden'}  `}>Sign up Now</button>
                     </Link>
                 </div>
-                <div className={`flex fixed left-8 top-18 md:hidden`}>
+                <div className={`flex absolute left-8 top-18 md:hidden`}>
                     <button className='btn duration-600 transition-all' onClick={() => setShowLinks((prevLink) => !prevLink)}>{ShowLinks ? <span>&times;</span> : <span>&#x2630;</span>}</button>
                 </div>
-                <div className={`${ShowLinks && 'hidden'} flex fixed right-8 top-18 md:hidden`}>
+                <div className={`${ShowLinks && 'hidden'} flex absolute right-8 top-18 md:hidden`}>
                     <button className='btn'><span className='bg-red-500 text-white absolute -top-2 -right-2 flex justify-center place-items-center text-[8px] font-bold h-4 w-4 rounded-full'>4</span><CartIcon /></button>
                 </div>
             </div>
