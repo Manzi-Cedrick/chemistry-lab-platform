@@ -23,6 +23,10 @@ const CookiePolicySection = ({ sectionData }: any) => {
                     })}
                 </div>
             ))}
+            <div className='flex  md:justify-end items-center gap-x-4 py-10'>
+                <button className='bg-transparent text-main border-2 border-main font-semibold py-4 px-8 rounded-md'>Reject all</button>
+                <button className='bg-main text-white py-4 px-8 rounded-md'>Accept all</button>
+            </div>
         </div>
     )
 }

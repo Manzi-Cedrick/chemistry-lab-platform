@@ -955,6 +955,10 @@
         ]
     },
     "cookiePolicy": {
+        "hero": {
+            "title": "Cookies Policy",
+            "body": "Thanks for visiting Company. Please take a moment to read our Cookies Policy before continue using this website. This policy helps to explain the occasions when and why cookies may be sent to visitors of the website (referred to in this policy as “we”, “us” or “our” or “Company”).“Cookies” are text-only pieces of information that a website transfers to an individual’s hard drive or other website-browsing equipment for record-keeping purposes. Cookies allow the website to remember important information that will make your use of the site more convenient."
+        },
         "data": [
             {
                 "title": "What Are Cookies?",

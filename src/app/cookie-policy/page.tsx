@@ -4,6 +4,7 @@ import HeroSection from '../(components)/HeroSection'
 import jsonData from '../(util)/text.json'
 import PolicySection from '../(components)/PolicySection'
 import CookiePolicySection from '../(components)/CookiePolicySection'
+import CookieHeroSection from '../(components)/CookieHero'
 
 export const metadata: Metadata = {
     title: 'Psurplus Join Our Team Page!',
@@ -15,7 +16,8 @@ const data = jsonData.cookiePolicy.data
 const PrivatePolicy = () => {
     return (
         <main>
-            <CookiePolicySection sectionData={data}/>
+            <CookieHeroSection />
+            <CookiePolicySection sectionData={data} />
         </main>
     )
 }
