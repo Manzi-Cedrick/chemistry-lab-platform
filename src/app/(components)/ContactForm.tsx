@@ -1,5 +1,5 @@
 import React from 'react'
-import { GoogleIcon, LinkedIcon } from '../(icons)'
+import { EmailIcon, EyeIconCheck, GoogleIcon, LinkedIcon } from '../(icons)'
 import Link from 'next/link'
 
 const ContactForm = () => {
@@ -35,10 +35,15 @@ const ContactForm = () => {
                 >Email</label>
             </div>
             <div className="relative mb-6" data-te-input-wrapper-init>
-                <input
-                    type="password"
-                    className="peer block min-h-[auto] w-full focus:border-main rounded bg-gray-50 border-2 border-slate-200 px-3 py-2 leading-[1.6] outline-none transition-all duration-200 ease-linear focus:placeholder:opacity-100 data-[te-input-state-active]:placeholder:opacity-100 motion-reduce:transition-none text-black [&:not([data-te-input-placeholder-active])]:placeholder:opacity-0"
-                    placeholder="password" />
+                <div className='flex bg-gray-50 justify-start rounded  border-2 border-slate-200'>
+                    <input
+                        type="password"
+                        className="peer block min-h-[auto] w-full focus:border-main  px-3 py-2 leading-[1.6] outline-none transition-all duration-200 ease-linear focus:placeholder:opacity-100 data-[te-input-state-active]:placeholder:opacity-100 motion-reduce:transition-none text-black [&:not([data-te-input-placeholder-active])]:placeholder:opacity-0"
+                        placeholder="password" />
+                    <div className='px-4 flex items-center'>
+                        <EyeIconCheck />
+                    </div>
+                </div>
                 <label
                     className="pointer-events-none absolute left-3 top-0 mb-0 max-w-[90%] origin-[0_0] truncate pt-[0.37rem] leading-[1.6] text-gray-500 transition-all duration-200 ease-out peer-focus:-translate-y-[0.9rem] peer-focus:scale-[0.8] peer-focus:text-main peer-data-[te-input-state-active]:-translate-y-[0.9rem] peer-data-[te-input-state-active]:scale-[0.8] motion-reduce:transition-none peer-focus:bg-white"
                 >Password</label>
@@ -76,7 +81,7 @@ const ContactForm = () => {
                     <button className='py-3 bg-white text-main border-2 border-main w-full rounded-md text-[14px] font-semibold'>Login Now</button>
                 </div>
             </div>
-        </form>
+        </form >
     )
 }
 
