@@ -159,5 +159,1086 @@
             "title": "How to sell the products on Company: learn the art of selling",
             "body": "Welcome to Company, your trusted partner in sustainable and eco-friendly management of surplus chemicals. Subscribe to our newsletter."
         }
+    },
+    "terms": {
+        "hero": {
+            "title": "Terms of use",
+            "body": "These Terms and Conditions of Service and Use of Company website (referred to herein as “we” or” us” or “our” or “Website” or “Company”) are hereby made effective, and, without waiving or otherwise releasing any right or obligation under any prior terms of use of Company hereby amend and restate any such prior terms and conditions.When you use our website, you're agreeing to these terms. So please take a few minutes to read over the below mentioned Terms of Use before using our website."
+        },
+        "data": [
+            {
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "If You Do Not Agree With Any Term Or Provision Of These Terms Of Use, Please Exit This Site Immediately. Please Be Advised That Your Continued Use Of This Website Or The Products Or Information Provided Thereby Shall Indicate Your Consent And Agreement To These Terms Of Use.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 1- Proprietary Rights",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "As between you and us, we own, solely and exclusively, all rights, title and interest in and to the Website, all the content (including, for example, audio, photographs, illustrations, graphics, other visuals, video and copy), software, code, body, and the look and feel, design and organization of the Website, and all materials and content related to our programs even if the materials or content are not accessed through the Website. Your use of the Website does not grant to you ownership of any content, software, code, body or materials you may access on the Website.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 2- Prohibited Conduct",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Without limiting the generality of the foregoing or any other provision hereof, you acknowledge and agree, as follows:",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "ol",
+                        "value": [
+                            "Not to access the Website using any automated means, including, without limitation, harvesting bots, robots, spiders, or scrapers",
+                            "Not to engage in multi-level marketing using the Website, including, without limitation, pyramid schemes, and similar marketing concepts",
+                            "Not to upload, use or disseminate viruses or other malicious code or other abusive scripts or processes",
+                            "Not to solicit personal information of another person or request or obtain access to an account of another person",
+                            "Not to bully, intimidate, or harass any person",
+                            "Not to use the Website in any manner that is, or could reasonably be construed to be, in violation of these Terms and Conditions, fraudulent, misleading, malicious or discriminatory",
+                            "Not to take any action that could disable, overburden, or impair the operation or availability of the Website, such as a denial-of-service attack",
+                            "Not to engage in manipulative practices designed to obfuscate the true intent of your submissions to the Website, or to artificially generate traffic to another website",
+                            "Not to facilitate or encourage any violations of these Terms and Conditions",
+                            "Not to issue chargeback disputes against us",
+                            "Not to use patented, copyrighted, trademarked or other protected intellectual property without the written consent and authorization of the owner of such property",
+                            "Not to copy, distribute or disseminate the Website or any portion thereof, and not to transfer the Website, or any portion thereof, to another person or 'mirror' the Website, or any portion thereof, on any other server",
+                            "Not to decompile or reverse engineer, or attempt to decompile or reverse engineer, the Website or any portion thereof."
+                        ],
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 3- Seller Guidelines",
+                "body": [
+                    {
+                        "tag": "ol",
+                        "value": [
+                            "In the course of your use of the Website, you agree to furnish your details and information as requested by us from time to time. You shall remain responsible for maintaining confidentiality of this information, as well as your display name, login and password details. You agree that if you provide any information which is untrue, inaccurate, not current, or incomplete or we have reasonable grounds to suspect that such information is untrue, inaccurate, not current, incomplete, or not in accordance with the T&C, we shall have the right to suspend or terminate your account on the Website or indefinitely block you from accessing the Website",
+                            "As a registered seller, you shall list item(s) for sale on the Website in accordance with the policies which are incorporated by way of reference in this T&C. You must be legally able to sell the item(s) you list for sale on our Website and must have all the necessary licenses and permits required for such sale. You must ensure that the listed items do not infringe upon the intellectual property, trade secret or other proprietary rights or rights of publicity or privacy rights of third parties",
+                            "Listings may only include text descriptions, graphics, pictures or videos that describe your item for sale. All items must be listed in an appropriate category on the Website. All listed items must be kept in stock for successful fulfilment of sales. The listing description of the item must not be misleading and must describe the actual condition of the product. If the item description does not match the actual condition of the item, you agree to refund any amount that you may have received from the buyer. You agree not to list a single product in multiple quantities across various categories on the Website. Company reserves the right to delete such multiple listings of the same product listed by you in various categories. Company reserves the right to restrict the selling of products originating from certain countries",
+                            "Seller’s liability to Buyer on any claim, whether based on contract, warranty, tort (including but not limited to negligence, negligence per se, vicarious liability, etc.), strict liability, or any other claim that may arise with respect to the goods or services delivered hereunder, shall in no case exceed the purchase price of the goods and services or part thereof. In no event shall Company be liable to Buyer for any special, punitive, direct, indirect, pecuniary or non-pecuniary, incidental or consequential damages arising out of, or as a result of, the sale, delivery, non-delivery, servicing, use or loss of use of the goods or any part thereof, or for any charges or expenses of any nature incurred, regardless of Seller’s negligence and Buyer agrees to indemnify and hold Company harmless from any and all such claims of damage by Buyer or others",
+                            "Seller expressly disclaims any and all liability for the proper design, manufacture, or operation of any goods, parts or components designed, manufactured or supplied by the Buyer to the Seller, or third-party parts specified by Buyer. This includes any design, modification or addition to Seller’s goods that is provided by the Buyer to the Seller, whether or not Seller has agreed to such Buyer’s design, modification or addition",
+                            "It is your responsibility to charge appropriate goods and services taxes on the supplies effected and remittance of the same to the Government. Company shall not be responsible for any deficiency and/ or omission on your part",
+                            "Seller shall, at its own expense, pack, load, and deliver Goods to the Delivery Point and in accordance with the invoicing, delivery terms, shipping, packing, and other instructions printed on the face of the Purchase Order or otherwise provided to Seller by Buyer in writing. No charges will be allowed for freight, transportation, insurance, shipping, storage, handling, demurrage, cartage, packaging or similar charges unless provided for in the applicable Purchase Order or otherwise agreed to in writing by Buyer",
+                            "You shall be responsible for the content posted or transmitted on the Website by you. The content will become our property and you grant us the worldwide, perpetual, royalty free and transferable rights in such content. We shall be entitled to, consistent with our privacy policy as adopted in accordance with applicable law, use the content or any of its elements for any type of purpose forever, including, but not limited to, promotional and advertising purposes in any media, whether now known or hereafter devised or the creation of derivative work. You agree that any content you post may be used by us, and you are not entitled to any payment or other compensation for such use",
+                            "Company reserves the right to reject, edit, modify and delete any posts or listings made by the Seller",
+                            "As a Company Seller, you are strictly prohibited to share your company name and contact details in the product listings. Purposefully participating in such activities whether in text, images and videos may result in deletion of the product listing and complete ban from using the services",
+                            "Company can also help Sellers setup their profiles and list products on the website, if we receive a help request via email"
+                        ],
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 4- Bidding Guidelines",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "By submitting an item for sale, bidding for an item or purchasing an item from Company you are agreeing to be bound by these Terms & Conditions.",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "ol",
+                        "value": [
+                            "The specifications mentioned on the product is SOLE responsibility of the seller at the time of sale. Any specifications given by Company is given on behalf of the seller.",
+                            "In the event of a purchaser cancelling the bid or failing to comply with the auction guidelines, any payment to account of the price made by such a purchaser shall be fortified and the concerned will revert to the seller. The lot thereafter may be re-sold and the defaulting purchaser shall pay to the seller any loss or damage sustained as a result of such a resale.",
+                            "Each product shall be sold to the highest bidder and in the event of any dispute between bidders regarding any lot, such lot may be re-exposed for sale at our discretion.",
+                            "Company reserves the right to refuse the bid of any person and that without any reason. Company reserves the right to bid as agent for any prospective buyer and further reserve to themselves the right to regulate the bidding and the conduct of the sale. Their decision on all matters affecting the sale shall be final and binding.",
+                            "There is no obligation on Company to recognize any transfer of a purchase."
+                        ],
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 5- Shipping",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Once your purchase has been confirmed, your order will be usually processed and shipped as soon as possible. We use courier companies who’ll have access to API and they will provide tracking information and keep you updated regarding the same after your placed order has been processed. All tracking numbers will be emailed once the order is processed. International shipments are subject to import taxes and duties by the destination country upon receipt which is the sole responsibility of the buyer.",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Shipping costs will be calculated at the time of checkout and it may vary depending on weight, postal code, and shipping method. Shipping to remote locations may require additional time for delivery.",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "We may provide shipping time estimations for all of our products. We will work to get your order to you as quickly as possible, but please note that our shipping lead times are all estimations and we cannot guarantee an order to arrive by a specific time.",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Estimated delivery dates are indicative & approximate values only and items can be shipped earlier or later also on case-to-case basis depending on availability of item and other factors. No refund, returns, replacement & exchange will be entertained for this reason.",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Bad weather",
+                            "Flight delays",
+                            "National holiday",
+                            "Order fulfilment process",
+                            "Customs clearance procedures",
+                            "Other unforeseen circumstances"
+                        ],
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "While we will use our best efforts to fulfil all orders, we cannot guarantee the availability of any particular product displayed on the Site. We reserve the right to discontinue the sale of any product listed on the Site at any time without notice. We reserve the right, at our sole discretion, to refuse or cancel any order for any reason.",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "In case of internal disturbances in the recipient destination (war, strife, riots etc.), we reserve the right to cancel an order and refund the money if we feel that a package cannot be delivered safely.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 6- Feedbacks And Reviews",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "You acknowledge that you transfer copyright of any feedback, reputation or reviews you leave consisting of comments and any rating(s) (e.g., quality, communication etc.) together with any composite rating by us. You acknowledge that such feedback, reputation and reviews belong solely to us, notwithstanding that we permit you to use it on our website while you remain a User. You must not use, or deal with, such feedback, reputation and reviews in any way inconsistent with our policies as posted on the Website from time to time without our prior written permission.",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "You may not do (or omit to do) anything that may undermine the integrity of the Company feedback system. We are entitled to suspend or terminate your Account at any time if we, in our sole and absolute discretion, are concerned by any feedback about you, or your feedback rating, where we believe our feedback system may be subverted.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 7- External Links",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "From our Website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link that may have gone 'bad'.",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR THE ACCURACY OR RELIABILITY OF ANY INFORMATION OFFERED BY THIRD-PARTY WEBSITES LINKED THROUGH THE WEBSITE OR ANY WEBSITE OR FEATURE LINKED IN ANY BANNER OR OTHER ADVERTISING. WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 8- Limitations On Use",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "You may not reproduce, resell, or distribute our products for any purpose unless you have been specifically permitted to do so under a separate agreement with Company. You may not sell or enable any third parties to resell the products purchased by You, display on any website or otherwise publish the services or any Content obtained from a Service or otherwise generate income from the services or use the services for the development, production or marketing of a service or product substantially similar to our services.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 9- Indemnification",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "You agree to defend, indemnify and hold us and our directors, officers, employees and agents harmless from any and all claims, liabilities, costs and expenses, including reasonable attorneys' fees, arising in any way from any content or other material you place on the Website or submit to us, or your breach or violation of the law or of these Terms and Conditions. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with our defense of such claim.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 10- Disclaimer Of Warranties",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "(A) THE WEBSITE, INCLUDING BUT NOT LIMITED TO ALL SERVICES, PRODUCTS, CONTENT, FUNCTIONS AND MATERIALS CONTAINED OR AVAILABLE ON THE WEBSITE, IS PROVIDED 'AS IS,' 'AS AVAILABLE', WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY REGARDING UPTIME OR UNINTERRUPTED ACCESS, AVAILABILITY, ACCURACY, OR USEFULNESS, AND ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. WE HEREBY DISCLAIM ANY AND ALL SUCH WARRANTIES, EXPRESS AND IMPLIED. WE ALSO ASSUME NO RESPONSIBILITY, AND WILL NOT BE LIABLE FOR, ANY DAMAGES TO, OR VIRUSES THAT MAY INFECT, YOUR COMPUTER EQUIPMENT, MOBILE DEVICE, OR OTHER PROPERTY ON ACCOUNT OF YOUR ACCESS TO OR USE OF THE WEBSITE OR YOUR DOWNLOADING OF ANY MATERIALS FROM THE WEBSITE. IF YOU ARE DISSATISFIED WITH THE WEBSITE, YOUR SOLE REMEDY IS TO DISCONTINUE USING THE WEBSITE.",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "(B) WE DO NOT: (I) GUARANTEE THE ACCURACY, COMPLETENESS, OR USEFULNESS OF ANY THIRD-PARTY CONTENT ON THE WEBSITE OR SERVICES (II) ADOPT, ENDORSE OR ACCEPT RESPONSIBILITY FOR THE ACCURACY OR RELIABILITY OF ANY OPINION, ADVICE, OR STATEMENT MADE BY ANY PARTY THAT APPEARS ON THE WEBSITE. UNDER NO CIRCUMSTANCES WILL WE BE RESPONSIBLE OR LIABLE FOR ANY LOSS OR DAMAGE RESULTING FROM YOUR RELIANCE ON INFORMATION OR OTHER CONTENT POSTED ON OR AVAILABLE FROM THE WEBSITE.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 11- Limitation Of Liability",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "IN NO EVENT, INCLUDING BUT NOT LIMITED TO NEGLIGENCE, WILL WE OR ANY OF OUR DIRECTORS, OFFICERS, EMPLOYEES, AGENTS OR CONTENT OR SELLERS (COLLECTIVELY, THE 'PROTECTED ENTITIES') BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES ARISING FROM, OR DIRECTLY OR INDIRECTLY RELATED TO, THE USE OF, OR THE INABILITY TO USE, THE WEBSITE OR THE CONTENT, MATERIALS, PRODUCTS, SERVICES, AND FUNCTIONS RELATED TO THE WEBSITE, YOUR PROVISION OF INFORMATION VIA THE WEBSITE, LOST BUSINESS OR LOST SALES, EVEN IF SUCH PROTECTED ENTITY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO CERTAIN USERS TO THE EXTENT REQUIRED BY APPLICABLE LAW.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 12- Termination",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We may terminate, change, suspend or discontinue any aspect of the Website's products or services at any time. We may restrict, suspend or terminate your access to the Website and/or its products or services if we believe you are in breach of these Terms and Conditions or applicable law, you are a repeat infringer of intellectual property rights, or for any other reason without notice or liability.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 13- Communication",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "If you provide us your email address, you agree and consent to receive email messages from us. These emails may be transactional or relationship communications relating to the products or services we offer, such as administrative notices and service announcements or changes, or emails containing commercial offers, promotions or special offers from us.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 14- Force Majeure",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Neither party hereto shall be responsible for delays or failures in performance resulting from acts beyond its reasonable control and without its fault or negligence. Such excusable delays or failures may be caused by, among other things, strikes, lock-out, riots, rebellions, accidental explosions, floods, storms, acts of God and similar occurrences. ",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 15- Governing Law And Jurisdiction",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "These Terms and Conditions will be governed by and construed in accordance with American laws, and the courts of Michigan will have non-exclusive jurisdiction to adjudicate any dispute arising under or in relation to these terms of use.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 16-Copyright",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "©Company 2022. All rights reserved. All materials presented on this Website are copyrighted and owned by us, or other individuals or entities as designated. Any republication, retransmission, reproduction, downloading, storing or distribution of all or part of any materials found on this Website is expressly prohibited.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 17- Dmca Takedown Procedure",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Company will always respect the intellectual property of others, and we ask that all of our users do the same. If you feel that your work has been duplicated in such a way that would constitute copyright infringement, or if you believe your intellectual property rights have been otherwise violated, you should provide to us the following information:",
+                        "class": " py-2"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "The electronic or the physical signature of the individual that is authorized on behalf of the owner of the copyright or other intellectual property interest;",
+                            "A description of the copyrighted work or other intellectual property that you believe has been infringed upon;",
+                            "A description of the location of the Website which you allege has been infringing upon your work;",
+                            "Your physical address, telephone number, and email address;",
+                            "A statement, in which you state that the alleged and disputed use of your work is not authorized by the copyright owner, its agents or the law;",
+                            "A statement, made under penalty of perjury, that the aforementioned information in your notice is truthful and accurate, and that you are the copyright or intellectual property owner, representative or agent authorized to act on the copyright or intellectual property owner’s behalf."
+                        ],
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 18- Modifications",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We reserve the right, at our sole discretion, to modify any portion of these Terms and Conditions at any time. Changes in these Terms and Conditions will be effective when posted. Your continued use of the Website and/or the products or services offered on or through the Website after any changes to these Terms and Conditions are posted will be considered acceptance of those changes.",
+                        "class": " py-2"
+                    }
+                ]
+            },
+            {
+                "title": "Section 19- Accepting This Terms Of Use",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "You hereby accept the fact that you have read, understood and are willing to abide by the terms and conditions laid down in this agreement. You further agree that the terms and conditions set out under this agreement are fair, reasonable and just given the matters set out under this agreement and you waive any and all rights to have any claims against us on grounds set out above.",
+                        "class": " py-2"
+                    }
+                ]
+            }
+        ]
+    },
+    "privatePolicy": {
+        "hero": {
+            "title": "Privacy Policy",
+            "body": "Thanks for visiting Company. Please take a moment to read our privacy policy before using our website.This Privacy Policy describes our policies and procedures on the collection, use, disclosure, and sharing of your personal information when you use this website."
+        },
+        "data": [
+            {
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "UNDER NO CIRCUMSTANCE WE SHALL HAVE ANY ACCOUNTABILITY TO YOU FOR ANY LOSS OR DAMAGE AS A RESULT OF THE USE OF ANY INFORMATION PROVIDED ON THE WEBSITE. YOUR USE OF THE WEBSITE AND YOUR RELIANCE ON ANY INFORMATION ON THE WEBSITE IS COMPLETELY AT YOUR OWN RISK.Our collection, use, disclosure, and processing of personal information about individuals will vary depending upon the circumstances. This privacy notice is intended to describe our overall privacy and data protection practices. In some cases, different or additional notices about our data collection and processing practices may be provided and apply to our processing of certain personal information.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 1 - Why We Collect Your Information?",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We use the information; we collect in various ways, including:",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "To provide, operate, and maintain our website.",
+                            "To improve, personalize, and expand our website.",
+                            "To understand and analyses how you use our website.",
+                            "To develop new products, services, features, and functionality.",
+                            "To communicate with you, either directly or through one of our partners, including for user service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes.",
+                            "To send you emails.",
+                            "Find and prevent fraud."
+                        ],
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 2 - Our Collection Of Personal Information",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Generally, we collect your personal information voluntarily. However, if you decline to provide certain personal information that is marked mandatory, you may not be able to access certain Services or we may be unable to fully respond to your inquiry.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Personal information that we collect and the process will vary depending upon the circumstances. We collect personal information directly from individuals, automatically related to the use of the Services, for example, some of the ways we collect information are as follows:",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Information we collect directly. We collect information that you provide to us, such as:",
+                            "when you provide your contact information and send other personal information to us;",
+                            "when you complete or submit a form through Company, for example, 'Contact Us' or 'More Information' forms;"
+                        ],
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "span",
+                        "value": "What Is Personal Data?",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Personal data relates to a living individual who can be identified from that data. Identification can be by the data alone or in conjunction with any other data in the data controller’s possession or likely to come into such possession. The processing of your personal data is governed by applicable privacy laws.Which Personal Data Do We Collect?",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Name",
+                            "Email",
+                            "Phone Number",
+                            "Address"
+                        ],
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "span",
+                        "value": "Your Data Controller",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "We are the data controller with respect to processing your data. This means that we decide how your personal data is processed and for what purposes. We know that you care how data about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly.To exercise your data protection rights, please contact us at:Office address: 888 West Big Beaver Road, Suite 200 Troy, MI 48084 Email: info@company.com Phone: +1 (248) 266-8040",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "span",
+                        "value": "Your Consent",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "You may choose to provide us with your e-mail address for the purpose of allowing us to send free newsletters, surveys, offers, and other promotional materials to you. You can stop receiving e-mails by following the unsubscribe instructions in emails that you receive. If you decide not to receive e-mails, we may still send you service-related communications.If you revoke your consent for the processing of Personal Information, then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity.Your ChoicesYou may, of course, decline to submit information through our website, in which case we may not be able to provide related services to you.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 3 - How We Use Your Personal Information?",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "While the purposes for which we may process personal information will vary depending upon the circumstances, in general, we use personal information for the purposes set forth below. Where General Data Protection Regulation (GDPR) or other relevant laws apply, we have set forth the legal bases for such processing in parenthesis.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Providing support and services: including, for example, to provide services you request (and send related information), operate Company to communicate with you about your access to and use of our products and services; to respond to your inquiries; to provide troubleshooting, fulfil your requests and provide technical support; and for other user service and support purposes.",
+                            "Analyzing and improving our business: including better understand how users' access and use Company to evaluate and improve our products and business operations, and to improve our features, offerings, and services; to conduct surveys, and other evaluations, such as user satisfaction surveys; and for other research and analytical purposes.",
+                            "Personalizing content and experiences: including to provide or recommend features, content, social connections, and referrals; tailor content we send or display on Company to offer customization and personalized help and instructions, and otherwise personalize your experiences.",
+                            "Advertising, marketing, and promotional purposes: including to reach you with more relevant ads and to evaluate, measure, and improve the effectiveness of our ad campaigns; to send you newsletters, offers, or other information we think may interest you; to contact you about Company or information we think may interest you;Defending our legal rights: including managing and responding to actual and potential legal disputes and claims, and to otherwise establish, defending or protecting our rights or interests, including in the context of anticipated or actual litigation with third parties.",
+                            "Complying with legal obligations: including to comply with the law, our legal obligations and legal process, such warrants, subpoenas, court orders, and regulatory or law enforcement requests."
+                        ],
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 4 - Disclosure Of Personal Information",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We may disclose the personal information that we collect about you as set forth below or as otherwise described at the time of collection or sharing.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Third Parties: We may employ other companies and individuals to perform functions on our behalf. Examples include sending postal mail and e-mail, removing repetitive information from user lists, analyzing data, providing marketing assistance, processing payments, transmitting content, and providing user service. These third-party service providers have access to personal information needed to perform their functions but may not use it for other purposes.Business transfers: We may disclose or transfer personal information as part of any actual or contemplated merger, sale, and transfer of our assets, acquisition, financing, or restructuring of all or part of our business, bankruptcy, or similar event, including related to due diligence conducted before such event where permitted by law.",
+                            "Legally required: We may disclose personal information if we are required to do so by law (e.g., to law enforcement, courts, or others, e.g., in response to a subpoena or court order).Protect our rights: We may disclose personal information where we believe it necessary to respond to claims asserted against us or, comply with legal process (e.g., warrants), enforce or administer our agreements and terms, for fraud prevention, risk assessment, investigation, and to protect the rights, property, or safety of us, our clients and users or others."
+                        ],
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 5 - Tracking, And Analytics",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "This website may use the first-party and third-party cookies, pixel tags, plug-ins, and other tools to gather device, usage, and browsing information when users visit Company. For instance, when you visit our website, our server may record your IP address (and associated location information) and other information such as the type of your internet browser, your Media Access Control (MAC) address, computer type (Windows or macOS), screen resolution, operating system name and version, device manufacturer and model, language, and the pages you view and links you select on the Services, as well as the date and time stamps associated with your activities on Company.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "We use the information for security purposes, to facilitate navigation, to personalize and improve your experience while using the Services, to improve and measure our advertising campaigns, and to better reach users with relevant advertising both on Company and on third party websites. We may also gather statistical information about the use of the Services in order to continually improve their design and functionality, understand how they are used, and assist us with resolving questions regarding them.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 6 - Cookies",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Cookies are small text files that a website transfers to your hard drive to store and sometimes collect information about your usages of websites, such as time spent on the website, pages visited, language preferences, and other anonymous traffic data. You can control the way in which cookies are used by altering your browser settings. You may refuse to accept cookies by activating the setting on your browser that allows you to reject cookies. However, if you select such a setting, this may affect the functioning of Company unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you access or log on to our website.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Security: These cookies allow us to secure access to your account.",
+                            "Preference: These cookies are used to store your preferences like language choice and display of search results.",
+                            "Analytics: We track traffic patterns so we can identify popular content and potential problems.",
+                            "Features: We may also use cookies to split some users into test groups to test new features.",
+                            "Advertising: We use non-identifiable information about you to show you advertising on our services and third-party websites."
+                        ],
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "If you have disabled one or more cookies, we may still use information collected from cookies before your disabled preference was set. However, we will stop using the disabled cookie to collect any further information.For more information regarding our usage of cookies, please visit our cookies policy.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 7 - Pixel Tags And Other Similar Technologies",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some websites to, among other things, track the actions of users of the website (including email recipients), measure the success of our marketing campaigns, and compile statistics about usage of the website and response rates. We and our service providers may also use pixel tags in HTML emails to our users, to help us track email response rates, identify when our emails are viewed, track whether our emails are forwarded, and conduct analytics.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 8 - Log Files",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Most browsers collect certain information, such as your IP address, device type, screen resolution, operating system version, and internet browser type and version. This information is gathered automatically and stored in log files.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 9 - Third-Party Analytics Tools",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Our website may use automated devices and applications operated by third parties, such as Google Analytics, which uses cookies and similar technologies to collect and analyse information about the use of the website and report on activities and trends. This service may also collect information regarding the use of other websites, apps, and online resources.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 10 - Do-Not-Track Signals",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Please note that our website does not recognize or respond to any signal which your browser might transmit through the so-called 'Do Not Track' feature your browser might have. If you wish to disable cookies on our website, you should not rely on any 'Do Not Track' feature your browser might have.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 11 - Security",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We use technical, administrative, and physical controls in place to help protect Personal Information from unauthorized access, use, and disclosure. Even so, despite our reasonable efforts, no security measure is ever perfect or impenetrable. If the security of your account has been compromised, please immediately notify us at: info@company.com",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 12 - Do Not Sell My Data",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent, or otherwise share for marketing purposes your Personal Information with third parties without your consent.We will only process your Personal Data if we have a lawful basis for doing so. Lawful bases for processing include consent, contractual necessity, and our 'legitimate interests' or the legitimate interest of others, as further described below. In some cases, we process Personal Data based on the consent you expressly grant to us at the time we collect such Personal Data. When we process Personal Data based on your consent, it will be expressly indicated to you at the point and time of collection. From time to time, we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 13 - The Personal Data Protection Law For Uae",
+                "body": [
+                    {
+                        "tag": "ol",
+                        "value": [
+                            "The provisions of the law apply to the processing of personal data, whether all or part of it through electronic systems, inside or outside UAE.",
+                            "The law prohibits the processing of personal data without the consent of its owner, with the exception of some cases in which the processing is necessary to protect the public interest, or that the processing is related to the personal data that has become available and known to all by an act of the data owner, or that the processing is necessary to carry out any of the legal procedures and rights.",
+                            "The owner has the right to request correction of inaccurate personal data, restrict or stop the processing of personal data. The law sets out the requirements for the cross-border transfer and sharing of personal data for processing purposes."
+                        ],
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 14- Gdpr Data Protection Rights",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We would like to make sure you are fully aware of all of your data protection rights. Every European user is entitled to the following:",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ol",
+                        "value": [
+                            "Right to access: If you can prove your identity, you have the right to obtain information about the processing of your data. Thus, you have the right to know the purposes of the processing, the categories of data concerned, the categories of recipients to whom the data are transmitted, the criteria used to determine the data retention period, and the rights that you can exercise on your data.",
+                            "Right to rectification of your personal data: Inaccurate or incomplete personal data may be corrected.",
+                            "Right to erasure (or 'right to be forgotten'): You also have the right to obtain the erasure of your personal data under the following assumptions:Your personal data are no longer necessary for the intended purposes;You withdraw your consent to the processing and there is no other legal ground for processing;You have validly exercised your right of opposition;Your data has been illegally processed;Your data must be deleted to comply with a legal obligation. The deletion of data is mainly related to visibility; it is possible that the deleted data are still temporarily stored.",
+                            "Right to limitation of processing: In certain cases, you have the right to request the limitation of the processing of your personal data, especially in case of dispute as to the accuracy of the data, if the data are necessary for the context of legal proceedings or the time required to verify that you can validly exercise your right to erasure.",
+                            "Right to object: You have the right to object at any time to the processing of your personal data for direct marketing purposes. We will stop processing your personal data unless it can demonstrate that there are compelling legitimate reasons for the processing which prevail over your right to object.",
+                            "Right to data portability: You have the right to obtain any personal data which you have provided us in a structured, commonly used, and machine-readable format. You are then free to transfer this data to a similar service provider.",
+                            "Right to withdraw your consent: You may withdraw your consent to the processing of your personal data at any time, for example for personalized marketing communication purposes."
+                        ],
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 15- California Online Privacy Protection Act",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy.According to CalOPPA we agree to the following:",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Users can visit our website anonymously.",
+                            "Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.",
+                            "Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above."
+                        ],
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 16- Children's Privacy",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We do not knowingly collect, maintain, or use Personal Information from our Website about children under the age of 13. We request that persons under the age of 13 not use our website without supervision from a responsible adult. We will never request Personal Information from a child under the age of 13 without verifiable parental consent. If We become aware that a child under the age of 13 has sent Personal Information to us without prior parental consent, we will remove his or her Personal Information from our files.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 17- How We Protect Your Information?",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Our security measures do not guarantee that your information will not be accessed, disclosed, altered, or destroyed by a breach of such firewalls and secure server software. By using our Service, you acknowledge that you understand and agree to assume these risks.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 18- Third-Party Websites",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "The Services may contain links to third-party services. We do not own, operate, or control the websites of third-parties, including those of independently owned and operated franchisees. Accordingly, this Policy does not apply to any services maintained or operated by third-parties. When you click on those links, you will go to a third-party website where you will be subject to that service's privacy policy or similar statement and terms of use, and we encourage you to read that policy statement. We are not responsible for the privacy practices of other services, and we expressly disclaim any liability for their actions, including actions related to the use and disclosure of personal information by those third parties.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Section 19- Changes To This Policy",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We may amend this Policy at any time. If we make any material change in how we collect, use, disclose or otherwise process personal information, we will prominently post a notice regarding such change on the Services. Where required to do so by law, we may seek your prior consent to any material changes we make to this Policy.",
+                        "class": " py-4"
+                    }
+                ]
+            }
+        ]
+    },
+    "refundPolicy": {
+        "hero": {
+            "title": "Refund & Return Policy",
+            "body": "Thank you for shopping at Company. If you are not completely satisfied with a purchase, we invite you to review our policy on refunds and returns. The following terms are applicable for any products that You purchased with us."
+        },
+        "data": [
+            {
+                "title": "Interpretation",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Definitions",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "For the purposes of this Refund Policy:",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable:",
+                            "Company (referred to as either 'the Company', 'We', 'Us' or 'Our' in this agreement) refers to Company.",
+                            "Website refers to this website.",
+                            "Product refers to the products offered for sale on the website.",
+                            "Orders mean a request by You to purchase products from Us."
+                        ],
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Refund Policy",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We realize that returns and exchanges are a part of purchasing process however Every sale from Company is final and sold AS IS. We do not provide any warranty, refunds or cancellations on orders, once they are confirmed and shipped.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "All orders will be processed in the most timely and efficient manner possible; however, Company will not be held responsible for delays above and beyond its control.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Any refused shipments sent back to Company does not constitute the right to a refund or credit. It is the customer's responsibility to make all arrangements with Company for refused shipments. Company will charge the customer all freight charges associated with the shipment.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "All orders placed with Company by (phone, fax, mail, internet/web & e-mail) constitute the acknowledgment and acceptance of all conditions listed on Company price list and all conditions mentioned herein. All parts shall remain the property of Company until paid in full.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "All prices, materials, design, color, contents included with a product, and product specifications are subject to change without notice. Some product images may be shown with optional items that are sold separately. Product photos are for illustration purposes only - some product colors/pigmentation may differ from actual photos.",
+                        "class": " py-4"
+                    }
+                ]
+            }
+        ]
+    },
+    "disclaimer": {
+        "hero": {
+            "title": "Disclaimer",
+            "body": "This website is provided on an as-is and as-available basis. You agree that your use of the website will be at your sole risk. To the fullest extent permitted by law, we disclaim all warranties, express or implied, in connection with the website and your use thereof, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, and non- infringement."
+        },
+        "data": [
+            {
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Company makes no warranties or representations about the accuracy or completeness of the website’s content or the content of any websites linked to the website and we will assume no liability or responsibility for any (1) errors, mistakes, or inaccuracies of content and materials, (2) personal injury or property damage, of any nature whatsoever, resulting from your access to and use of the website, (3) any unauthorized access to or use of our secure servers and/or any and all personal information and/or financial information stored therein, (4) any interruption or cessation of transmission to or from the website.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "No Professional Advice",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "The information contained on this website and the resources available for download through this website is not intended as, and shall not be understood or constructed as, professional advice. The information contained on this website is not a substitute for advice from a professional who is aware of the facts and circumstances of your individual situation.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "We have done our best to ensure that the information provided on this website and the resources available for download are accurate and provide valuable information. Regardless of anything to the contrary, nothing available on or through this website should be understood as a recommendation that you should not consult with a professional to address your particular information.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "User’s Personal Responsibility",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "By using this website, you accept personal responsibility for the results of your actions. You agree to take full responsibility for any harm or damage you suffer as a result of the use, or non-use, of the information available on this website or the resources available for download from this website. You agree to use judgment and conduct due diligence before taking any financial decision.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "The users are solely responsible for determining what, if any, taxes apply to any transactions (including, without limitation, any taxes that may become payable as the result of the ownership, transfer, purchase, sale, or creation of any items. Company is therefore, not responsible for determining the taxes that apply to items transactions.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "User Content Disclaimer",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We enable our users with the ability to add, create, upload, submit, distribute, collect, or post (“Submitting” or “Submission”) videos, comments, data, text, photographs, pictures, graphics, or other information to the website (collectively, the “User Submissions”).",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "By submitting any User Submissions through the website or the Service, you hereby do and shall grant Company a worldwide, non-exclusive, perpetual, irrevocable, royalty-free, fully paid, sublicensable, and transferable license to use, edit, modify, reproduce, distribute, prepare derivative works of, display, perform, and otherwise fully exploit the User Submissions in connection with the website, the Service and Company’s (and its successors and assigns’) Service, including without limitation for promoting and redistributing part or all of the website (and derivative works thereof) or the Service in any media formats and through any media channels (including, without limitation, third party Sites).",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "You agree to pay all royalties and other amounts owed to any person or entity due to your Submission of any User Submissions to the Service.You understand that Company shall have the right to delete, edit, modify, reformat, excerpt, or translate any materials, content, or information submitted by you; and that all information publicly posted or privately transmitted through the website is the sole responsibility of the person from which such content originated and that Company will not be liable for any errors or omissions in any content; and that Company cannot guarantee the identity of any other users with whom you may interact in the course of using the Service.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Company cannot guarantee the authenticity of any data which users may provide about themselves or the persons or entities they are involved or affiliated with or employed by. You acknowledge that all Content accessed by you using the Service is at your own risk and you will be solely responsible for any damage or loss to any party resulting therefrom.",
+                        "class": " py-4"
+                    }
+                ]
+            }
+        ]
+    },
+    "cookiePolicy": {
+        "data": [
+            {
+                "title": "What Are Cookies?",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Cookies are small pieces of data, stored in text files that are stored on your computer or other device when websites are loaded in a browser. They are widely used to “remember” you and your preferences, either for a single visit (through a “session cookie”) or for multiple repeat visits (using a “persistent cookie”). They ensure a consistent and efficient experience for visitors, and perform essential functions such as allowing users to register and remain logged in. Cookies may be set by the site that you are visiting (known as “first party cookies”), or by third parties, such as those who serve content or provide advertising or analytics services on the website (“third party cookies”).",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Both websites and HTML emails may also contain other tracking technologies such as “web beacons” or “pixels.” These are typically small transparent images that provide us with statistics, for similar purposes as cookies. They are often used in conjunction with cookies, though they are not stored on your computer in the same way. As a result, if you disable cookies, web beacons may still load, but their functionality will be restricted.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Cookies allow Company to serve you better and more efficiently, and to personalize your experience on our Site. Web beacons, tags and scripts may be used in the website or in emails to help us to deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. We may analyze or perform analysis based on the use of these technologies and generate reports on an individual and aggregated basis.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Cookies do not contain any information that personally identifies you, but personal information that we store about you may be linked, by us, to the information stored in and obtained from cookies. The cookies used on the website include those which are strictly necessary cookies for access and navigation, cookies that track usage (performance cookies), remember your choices (functionality cookies), and cookies that provide you with targeted content or advertising.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "We may use the information we obtain from your use of our cookies for the following purposes:",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "to recognize your computer/device when you visit our website.",
+                            "to track you as you navigate the website, and to enable the use of any facilities.",
+                            "to improve the website’s usability.",
+                            "to analyze the use of the website.",
+                            "in the administration of the website.",
+                            "to personalize the website for you, including targeting advertisements which may be of particular interest to you."
+                        ],
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Why We Use Cookies?",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "A cookie will typically contain the name of the domain from which the cookie has come, the “lifetime” of the cookie, and a randomly generated unique number or other value. Certain cookies will be used on the Site regardless of whether you are logged in to your account or not. Like most websites, we use cookies for a variety of purposes in order to improve your online experience, for analytics and for marketing, but specifically we use cookies on the website for the following purposes:",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ol",
+                        "value": [
+                            "Analytical Purposes: Our website uses cookies to analyze user activity in order to improve the website. For example, using cookies we can look at aggregate patterns like the average number of searches that users perform. We can use such analysis to gain insights about how to improve the functionality and user experience of the website.",
+                            "Your Preferences: Our website uses cookies to store certain user preferences on our website. For example, we may store the recent searches you have performed in a Cookie so that we can allow you to easily repeat those searches when you return to our website.",
+                            "Marketing: We may use cookies from third-party partners such as Google and Facebook for marketing purposes. These cookies allow us to display promotional material to you on other sites you visit across the Internet. We may also share information about your behavior on the website with third parties (including operators of third-party websites and/or social networking sites) in order to show you targeted advertisements and other content that has been customized for you.",
+                            "Referral Tracking: We may use cookies to associate user activity with the third-party website that referred the user to our website, or to associate user activity that Company referred to a third-party website. These third-party partner websites receive credit for the activity of users they refer to our website, or give us credit for the activity of users referred to such third-party websites. We do not share any personal information or information about individual user activities with these partner entities."
+                        ],
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Types Of Cookies We May Use In This Website",
+                "body": [
+                    {
+                        "tag": "span",
+                        "value": "Depending on purpose:",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "ol",
+                        "value": [
+                            "Analytical Purposes: Our website uses cookies to analyze user activity in order to improve the website. For example, using cookies we can look at aggregate patterns like the average number of searches that users perform. We can use such analysis to gain insights about how to improve the functionality and user experience of the website.",
+                            "Geolocation cookies: these cookies permit us to know form where the user is requesting a service. This cookie is anonymous and is used for example to offer you’re the proper information depending on the country where you are.",
+                            "Marketing: We may use cookies from third-party partners such as Google and Facebook for marketing purposes. These cookies allow us to display promotional material to you on other sites you visit across the Internet. We may also share information about your behavior on the website with third parties (including operators of third-party websites and/or social networking sites) in order to show you targeted advertisements and other content that has been customized for you.",
+                            "Analysis cookies: are those that enable its owner, monitoring and analyzing the behavior of users of the website to which they are linked. The information gathered through such cookies is used for measuring the activity of the website, platform or application and for profiling navigation of users of the website, platform or application, in order to improve the website based on those analysis.",
+                            "Advertising cookies: these are cookies enable us to manage the offer of the advertising space on the web page as efficiently as possible, adapting the ad content to the content of the service requested or the use you make of our web page. These Third-Party cookies are placed by third party advertising platforms or networks in order to, deliver ads and track ad performance, enable advertising networks to deliver ads that may be relevant to you based upon your activities (this is sometimes called “behavioral” “tracking” or “targeted” advertising) on the website. They may subsequently use information about your visit to target you with advertising that you may be interested in, on the Company and other websites. For example, these cookies remember which browsers have visited the website. Most types of these cookies track consumers via their Device ID or IP address therefore they may collect personal data.",
+                            "Behavioral advertising cookies: these are cookies that enable the efficient as possible management of the advertising space available on the website. These cookies store information on user behavior from continued observation of user browsing habits, thus enabling the developing of a specific profile to show advertising consistent with the behavior in question.",
+                            "Functionality cookies: during your visit to the website, cookies are used to remember information you have entered or choices you make (such as your language or your region) on the website application. They also store your preferences when personalizing the website to optimize your use of Company. These preferences are remembered, through the use of the persistent cookies, and the next time you visit the website you will not have to set them again.",
+                            "Performance cookies: performance cookies are used to generate aggregated, anonymous information about how you and other users use this website and its features. For instance, our performance cookies collect information about which pages on this website you visit most often, if you open or read the communications we send, which advertisements you view or interact with on this website or other websites on which our advertisements appear, and if you receive any error messages. The information collected may be used to improve users’ online experience generally, to collate statistics, or customize your online experience by showing you content we think you will like. Our performance cookies don’t collect information that identifies you personally; however, if you have a registration account with us, the information collected by us using our performance cookies may be associated with your registration account."
+                        ],
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "span",
+                        "value": "Depending on duration:",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ol",
+                        "value": [
+                            "Session cookies: these are a type of cookie designed to collect and store information while the user is accessing a website. These cookies are not stored on the user’s computer when the session expires or the browser is closed.",
+                            "Persistent cookies: these are a type of cookie in which the data continue to be stored on the user’s computer and can be accessed and processed when the user leaves the website and when he/she returns to it. The user can delete these cookies at any time."
+                        ],
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "span",
+                        "value": "Depending on who manages the cookie:",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "ol",
+                        "value": [
+                            "Own cookies: Are those sent to the user’s terminal from a computer or domain managed by the owner of the website and from which the service requested by the user is provided.",
+                            "Third party cookies: Are those sent to the user’s terminal from a computer or domain that is not managed by the owner of the website and from which the service requested by the user is provided but for another entity that processes the data gathered by the cookie. Likewise, in the event that cookies are installed from a computer or domain managed by the owner of the website itself but the information collected is managed by a third party, they will also be considered as third-party cookies."
+                        ],
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Third party social networks (e.g., Facebook, YouTube, Twitter, LinkedIn) may also place cookies. This enables you to share content of the website on social networks. These third parties may use cookies for their own purposes. Company has no influence over how these social media networks make use of your data. For more information regarding the cookies set by the social media networks please refer to their own privacy and cookie policies.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Third parties that may set cookies via our website may also try to find out what your interests are in this way, and this information may also be used to present you with content or advertisements that appear more likely to be of interest to you on other, non-Company websites. In this case, the information about your current website visit may be combined with information from previous visits to websites other than ours..",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag":"p",
+                        "value": "Even if these advertising cookies are not used, please note that if you ever encounter advertisements on our site; however, these advertisements will not be tailored to your interests. These advertisements can, for instance, be modified according to the content of the website. You can compare this type of content-related Internet advertisements with advertising on television.",
+                        "class":" py-4"
+                    }
+                ]
+            },
+            {
+                "title": "How Cookies Are Used For Online Analytics Purposes?",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "We may use web analytics services on our Services, such as, but not limited to those of Google Analytics. These services help us analyze how users use the services, including by noting the third-party site from which you arrive. The information collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to online marketing, as described in the following section.",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Google Analytics uses performance cookies to track customer’s interactions. For example, by using cookies, Google can tell us which pages our users view, which are most popular, what time of day our website is visited, whether visitors have been to our website before, what website referred the visitor to our website, and other similar information. All of this information is anonymized.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Browser Cookie Settings",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "Some people find the idea of a website storing information on their device a little intrusive, in particular when the information is stored and used by a third party. For example, you may object to being served advertising which is targeted to your interests based on your browsing history. If you would prefer to opt out of cookies, it is possible to control cookies by following the steps below, however you should be aware that you might lose some features and functionality of the website if you do so..",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Cookies, including those which have already been set, can be deleted from your hard drive. You can also change the preferences/settings in your web browser to control cookies. Some internet browsers have a ‘Do Not Track or ‘DNT’ setting; this sends a signal to websites asking them not to track your browsing.We have very limited control over these 'third party' cookies, so we suggest that you check the respective privacy policies for these external services to help you understand what data these organizations hold about you, what they do with it and how you can opt-out of the same.Please check the browser’s cookie settings support pages to confirm the most up-to-date instructions..",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "span",
+                        "value": "Google chrome",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Click the settings icon on the browser toolbar (three stacked lines)",
+                            "Select ‘Settings’",
+                            "Click ‘Show advanced settings’",
+                            "In the “Privacy” section, click the ‘Content settings’ button",
+                            "To enable cookies: In the “cookies” section, pick ‘Allow local data to be set’. This will enable both first-party and third-party cookies. To allow only first-party cookies, pick ‘Block third-party cookies and site data’",
+                            "To disable cookies: In the “cookies” section, pick ‘Block sites from setting any data’",
+                            "Note there are various levels of cookie enablement and disablement in Chrome. For more information on other cookie settings offered in Chrome, refer to the following page from Google: https://support.google.com/chrome/answer/95647"
+                        ]
+                    },
+                    {
+                        "tag": "span",
+                        "value": "Mozilla Fox",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Click the settings icon on the browser toolbar (three stacked lines)",
+                            "Select ‘Settings’",
+                            "Click ‘Show advanced settings’",
+                            "To disable cookies: Uncheck ‘Accept cookies from sites’",
+                            "Note there are various levels of cookie enablement and disablement in Firefox. For more information, refer to the following page from Mozilla: https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences"
+                        ]
+                    },
+                    {
+                        "tag": "span",
+                        "value": "Safari IOS",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Click on ‘Safari’ at the menu bar and select the ‘Preferences’ option",
+                            "Click on ‘Privacy’",
+                            "To enable cookies: In the ‘cookies and website data:’ section, click ‘Always Allow’ or ‘Allow from websites I visit’ or ‘Allow from current website only’ depending on your preference",
+                            "To disable cookies: In the “cookies and website data:” section, click ‘Always Block’",
+                            "Note there are various levels of cookie enablement and disablement in Safari. For more information on other cookie settings offered in Safari, refer to the following page from Apple: https://support.apple.com/kb/PH19214"
+                        ]
+                    },
+                    {
+                        "tag": "span",
+                        "value": "Opera",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "From the main menu, select ‘Settings’ (or ‘Preferences’, when using OS X)",
+                            "Click ‘Advanced’",
+                            "Under “cookies”, select an option for handling cookies",
+                            "To enable cookies: Check ‘Accept’ or ‘Accept only from the sites I visit’ depending on your preference",
+                            "To disable cookies: Check ‘Never accept cookies’",
+                            "Note there are various levels of cookie enablement and disablement in Opera. For more information on other cookie settings offered in Opera, refer to the following page from Opera Software: http://www.opera.com/help/tutorials/security/privacy/"
+                        ]
+                    },
+                    {
+                        "tag": "span",
+                        "value": "Microsoft Edge",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Click on ‘More’ and choose ‘Settings’",
+                            "Under “Advanced settings”, select ‘View advanced Settings’",
+                            "Under “Privacy and services – cookies”, choose the option you want.",
+                            "‘Block all cookies’ blocks all cookies that websites try to save to your computer. ‘Block only third-party cookies’ blocks third party cookies, which are saved by external web services, such as ads embedded on webpages you have navigated to.",
+                            "Note there are various levels of cookie enablement and disablement in Edge. For more information on other cookie settings offered in Microsoft Edge, refer to the following page from Microsoft: https://support.microsoft.com/en-us/help/12454/windows-10-microsoft-edge-privacy-faq"
+                        ]
+                    },
+                    {
+                        "tag": "span",
+                        "value": "Opt-Out of Interest-Based Advertising:",
+                        "class": " font-bold py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "To opt-out of interest-based advertising by third parties, please visit:",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "ul",
+                        "value": [
+                            "Digital Advertising Alliance (DAA)’s self-regulatory opt-out page (http://optout.aboutads.info/ ) and mobile application-based “AppChoices” download page (https://youradchoices.com/appchoices ) if you are located in the United States.",
+                            "European Interactive Digital Advertising Alliance (EDAA)’s consumer opt-out page (http://youronlinechoices.e u) if you are located in Europe.",
+                            "Network Advertising Initiative (NAI)’s self-regulatory opt-out page (http://optout.networkadvertising.org/ ) if you are located in the United States."
+                        ]
+                    },
+                    {
+                        "tag": "p",
+                        "value": "In the mobile environment, most mobile operating systems offer device-based opt-out choices that are transmitted to companies providing interest-based advertising. To set an opt-out preference for a mobile device identifier (such as Apple’s IDFA or Android’s GAID), visit the device manufacturer’s current choice instructions pages, or read more about sending signals to limit ad tracking for your operating system here: http://www.networkadvertising.org/mobile-choices .",
+                        "class": " py-4"
+                    },
+                    {
+                        "tag": "p",
+                        "value": "Please note that these settings must be performed on each device (including each web browser on each device) for which you wish to opt-out, and if you clear your cookies or if you use a different browser or device, you will need to renew your opt-out preferences. If you disable all cookies, you may not be able to take advantage of all the features of this website. Consult your mobile device documentation for information on how to disable cookies.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Revoking Consent",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "The user may at any time revoke consent in relation to this cookies Policy by deleting the cookies stored on the computer through the configuration and settings of your Internet browser, as listed above.",
+                        "class": " py-4"
+                    }
+                ]
+            },
+            {
+                "title": "Changes To The Cookie Policy",
+                "body": [
+                    {
+                        "tag": "p",
+                        "value": "This cookies Policy may be amended at any time when requested by the applicable legislation or when there is a variation in the typology used on the website. We recommend you review this policy each time you visit our website in order to be properly informed about how and why we use cookies.",
+                        "class": " py-4"
+                    }
+                ]
+            }
+        ]
     }
 }
