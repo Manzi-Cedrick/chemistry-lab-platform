@@ -12,7 +12,7 @@ const FAQComponent: React.FC<{ data: FaqData }> = ({ data }) => {
         <div className='lg:px-[12em]'>
             {Object.entries(data).map(([title, faqs]) => (
                 <div key={title}>
-                    <h1 className='py-4 text-secondary text-xl font-semibold'>{title}</h1>
+                    <h1 className='py-4 text-secondary text-xl font-semibold text-center'>{title}</h1>
                     {faqs.map((faq, index) => (
                         <Accordion key={index} faq={faq} />
                     ))}
