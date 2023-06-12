@@ -12,7 +12,7 @@ const Founders = () => {
                 </div>
                 <div className='z-10 px-0 text-center md:px-20 md:pr-[4em]'>
                     <h1 className='text-3xl md:text-5xl title text-[#032D60] font-semibold'>{title}</h1>
-                    <p className='py-8 text-[18px] text-[#404040] font-medium'>{body}</p>
+                    <p className='py-8 text-[18px] text-[#404040] sm:px-20 font-medium'>{body}</p>
                 </div>
             </div>
         </Section>
