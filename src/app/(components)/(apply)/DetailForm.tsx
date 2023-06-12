@@ -8,7 +8,7 @@ const DetailForm = () => {
     const defaultValue = CountrieListArr.find(country => country.name === 'Rwanda'); // Find the object that matches the default value
 
     return (
-        <form className=''>
+        <form>
             <div>
                 <h1 className='text-secondary font-bold pb-6 text-xl'>Enter your details.</h1>
             </div>
