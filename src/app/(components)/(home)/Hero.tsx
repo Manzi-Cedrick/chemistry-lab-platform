@@ -1,5 +1,5 @@
 import React from 'react'
-import { ArrowIcon, BookMarkIcon, DownArrow, LeftBlobSvg, SearchIcon } from '../../(icons)'
+import { ArrowIcon, BookMarkIcon, DownArrow, HomeIcon, LeftBlobSvg, SearchIcon } from '../../(icons)'
 import Section from '../../(layout)/pagelayout'
 import jsonData from '../../(util)/text.json';
 
@@ -22,12 +22,12 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className='flex z-10 flex-col gap-4 '>
-                    <button className='text-white flex justify-between gap-4 place-items-center bg-gradient1 rounded-md font-semibold relative px-10 py-6'><span className='absolute left-10 top-0'><SearchIcon /></span>Find Surplus Chemical <span><ArrowIcon /></span></button>
-                    <button className='text-white flex justify-between place-items-center bg-gradient2 px-10 rounded-md font-medium py-6 relative'><span className='absolute left-4 top-0'><BookMarkIcon /></span>Sell your Surpluses <span><ArrowIcon /></span></button>
+                    <button className='text-white flex justify-between gap-4 place-items-center bg-gradient1 rounded-md font-semibold relative px-4 py-6 pt-8'><span className='absolute left-10 top-0'><SearchIcon /></span>Find Surplus Chemical <span><ArrowIcon /></span></button>
+                    <button className='text-white flex justify-between place-items-center bg-gradient2 px-4 rounded-md font-medium py-6 relative'><span className='absolute left-4 top-0'><BookMarkIcon /></span>Sell your Surpluses <span><ArrowIcon /></span></button>
                 </div>
             </div>
             <div className='flex flex-col place-items-center pt-[10em] z-10 justify-center'>
-                <button className='text-black font-bold border-2 rounded-md border-black px-6 py-3'>See How it works</button>
+                <button className='font-semibold border-2 rounded-md border-[#404040] text-[#404040] px-6 py-3'>See How It works</button>
                 <span><DownArrow /></span>
             </div>
         </Section>
