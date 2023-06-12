@@ -36,11 +36,11 @@ const Header = () => {
                     <span className='text-main'>000-000-000</span>
                 </p>
             </div>
-            <div className={`flex justify-between px-0 md:px-20 gap-14 flex-col md:flex-row md:place-items-center py-3`}>
+            <div className={`flex justify-between px-0 md:px-20 flex-col md:flex-row md:place-items-center py-3`}>
                 <div className={`h-12 flex justify-center place-items-center md:block md:h-14 md:w-14}`}>
                     <LogoSvg />
                 </div>
-                <div className={`flex ${ShowLinks && 'flex flex-col gap-6 justify-start py-4 px-8'} text-black md:place-items-center md:justify-center md:gap-[2em] lg:gap-[8em] md:py-0`}>
+                <div className={`sticky duration-800 transition-all origin-top-left flex ${ShowLinks && 'flex flex-col gap-6 justify-start py-4 px-8'} text-black md:place-items-center md:justify-center md:gap-[2em] lg:gap-[8em] md:py-0`}>
                     <ul className={`text-black text-[14px] font-normal ${ShowLinks ? 'flex flex-col gap-6 justify-start' : 'hidden'}  md:flex gap-10`}>
                         {!ShowLinks ? links.map((link: ILink) => (
                             <li key={link.id} className={`${ChangeHeader(link.link_url)} hover:border-b-2 hover:border-solid hover:border-main py-2 hover:duration-700 hover:text-main`}>
@@ -69,7 +69,7 @@ const Header = () => {
                     </Link>
                 </div>
                 <div className={`flex absolute left-8 top-18 md:hidden`}>
-                    <button className='btn duration-600 transition-all' onClick={() => setShowLinks((prevLink) => !prevLink)}>{ShowLinks ? <span>&times;</span> : <span>&#x2630;</span>}</button>
+                    <button className='btn duration-600 transition-all' onClick={() => setShowLinks((prevLink) => !prevLink)}>{ShowLinks ? <span className='text-[24px]'>&times;</span> : <span>&#x2630;</span>}</button>
                 </div>
                 <div className={`${ShowLinks && 'hidden'} flex absolute right-8 top-18 md:hidden`}>
                     <button className='btn'><span className='bg-red-500 text-white absolute -top-2 -right-2 flex justify-center place-items-center text-[8px] font-bold h-4 w-4 rounded-full'>4</span><CartIcon /></button>
