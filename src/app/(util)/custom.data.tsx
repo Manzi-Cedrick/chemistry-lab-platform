@@ -1,4 +1,4 @@
-import { AddProductSvg, BlogSvg, CartSvg, ChemicalSvg, CustomIcon, CylinderIcon, EnhancementIcon, FaqSvg, GuardIcon, JoinTeam, LeafIcon, LinkedIcon, RecoveryIcon, SupportIconAudio, UserIcon, UserIconService, WhatsapIcon, YoutubeIcon } from "../(icons)";
+import { AddProductSvg, BlogSvg, CartSvg, ChemicalSvg, CustomIcon, CylinderIcon, EnhancementIcon, FaqSvg, FlaskSvg, GuardIcon, JoinTeam, LeafIcon, LinkedIcon, RecoveryIcon, SupportIconAudio, UserIcon, UserIconService, WhatsapIcon, YoutubeIcon } from "../(icons)";
 
 export interface ILink {
     id: string;
@@ -16,7 +16,7 @@ export const sideBarArr = [
         id: '1',
         linkName: 'Chemicals',
         linkDescription: 'Browse many good deals now.',
-        icon: <ChemicalSvg />,
+        icon: <FlaskSvg />,
         bg_color: '#0056D71A',
         link_url: '/' 
     },
