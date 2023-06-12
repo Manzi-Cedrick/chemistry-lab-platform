@@ -7,7 +7,7 @@ const CostEffective = () => {
     return (
         <Section className='relative flex md:flex-row flex-col justify-between place-items-center'>
             <div className='md:max-w-[30vw]'>
-                <p className='py-6 text-[18px] text-slate-600'>{body}</p>
+                <p className='py-6 text-[18px] text-[#404040] font-medium'>{body}</p>
             </div>
             <div className='flex py-20 md:py-0 justify-end flex-col place-items-center'>
                 <div className='absolute bottom-0 right-0'>
