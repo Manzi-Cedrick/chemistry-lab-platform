@@ -1,4 +1,4 @@
-import { CustomIcon, CylinderIcon, EnhancementIcon, GuardIcon, LeafIcon, LinkedIcon, RecoveryIcon, SupportIconAudio, UserIcon, UserIconService, WhatsapIcon, YoutubeIcon } from "../(icons)";
+import { AddProductSvg, BlogSvg, CartSvg, ChemicalSvg, CustomIcon, CylinderIcon, EnhancementIcon, FaqSvg, GuardIcon, JoinTeam, LeafIcon, LinkedIcon, RecoveryIcon, SupportIconAudio, UserIcon, UserIconService, WhatsapIcon, YoutubeIcon } from "../(icons)";
 
 export interface ILink {
     id: string;
@@ -11,6 +11,56 @@ export const links: ILink[] = [
     { id: '#4', link_title: 'Contact us', link_url: '/contact' },
     { id: '#5', link_title: 'Blog', link_url: '/blog' },
 ];
+export const sideBarArr = [
+    {
+        id: '1',
+        linkName: 'Chemicals',
+        linkDescription: 'Browse many good deals now.',
+        icon: <ChemicalSvg />,
+        bg_color: '#0056D71A',
+        link_url: '/' 
+    },
+    {
+        id: '2',
+        linkName: 'My Cart',
+        linkDescription: 'See the products in your cart.',
+        icon: <CartSvg />,
+        bg_color: '#F476001A',
+        link_url: '/' 
+    },
+    {
+        id: '3',
+        linkName: 'Add A Product',
+        linkDescription: 'Promote your surplus inventory and recover your asset here.',
+        icon: <AddProductSvg />,
+        bg_color: '#0056D71A',
+        link_url: '/' 
+    },
+    {
+        id: '4',
+        linkName: 'Blog',
+        linkDescription: 'Read more about chemicals surplus, and more.',
+        icon: <BlogSvg />,
+        bg_color: '#00CF531A',
+        link_url: '/blog' 
+    },   
+    {
+        id: '5',
+        linkName: 'FAQs',
+        linkDescription: 'Most asked questions about our services and our site.',
+        icon: <FaqSvg />,
+        bg_color: '#FF01B81A',
+        link_url: '/faq' 
+    },
+    {
+        id: '6',
+        linkName: 'Join Our Team',
+        linkDescription: 'Fill form and contact with us to join our team.',
+        icon: <JoinTeam />,
+        bg_color: '#00AA071A',
+        link_url: '/team' 
+    }
+]
 export interface IManage {
     id: number;
     title: string;
@@ -175,7 +225,7 @@ export const AboutServiceLinks = [
     {
         id: 1,
         title: 'careers',
-        url: '/'
+        url: '/jointeam'
     },
     {
         id: 2,
@@ -190,12 +240,12 @@ export const AboutServiceLinks = [
     {
         id: 4,
         title: 'In the news',
-        url: '/news'
+        url: '/about'
     },
     {
         id: 5,
         title: 'Privacy Policy',
-        url: '/privacy/policy'
+        url: '/privacy-policy'
     },
     {
         id: 6,
@@ -205,7 +255,7 @@ export const AboutServiceLinks = [
     {
         id: 7,
         title: 'Refund policy',
-        url: '/refund/policy'
+        url: '/refund-policy'
     }
 ]
 export const SupportLinks = [
@@ -217,7 +267,7 @@ export const SupportLinks = [
     {
         id: 2,
         title: 'Buyer FAQ',
-        url: '/buyer/faq'
+        url: '/faq'
     },
     {
         id: 3,
