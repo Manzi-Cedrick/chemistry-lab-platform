@@ -8,12 +8,12 @@ const Services = () => {
     return (
         <Section className='relative'>
             <div className='text-center z-20 flex justify-center place-items-center border-dashed'>
-                <h1 className='text-2xl text-secondary font-bold border-b-2 border-main py-2 border-dashed'>{title}</h1>
+                <h1 className='text-3xl text-secondary font-semibold py-2'>{title}</h1>
             </div>
-            <div className='grid z-20 py-10 lg:grid-cols-3 sm:grid-cols-1 grid-cols-1 gap-6 place-items-center justify-center'>
+            <div className='grid z-20 py-10 lg:grid-cols-3 sm:grid-cols-1 grid-cols-1 mx-auto max-w-[80vw] gap-6 place-items-center justify-center'>
                 {ServicesOfferArr && ServicesOfferArr.map((service: any) => {
                     return (
-                        <div key={service.id} className='bg-white rounded-md lg:max-w-[32vw] flex flex-col lg:h-[50vh] gap-6 place-items-center shadow-box p-6'>
+                        <div key={service.id} className='bg-white rounded-md lg:w-[24vw] flex flex-col lg:h-[50vh] place-items-center shadow-box p-6'>
                             <div style={{ background: service.color }} className={`flex place-items-center justify-center font-bold h-16 w-16 p-4 rounded-full`}>
                                 <span className='z-10'>{service.icon}</span>
                             </div>
