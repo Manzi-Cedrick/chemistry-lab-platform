@@ -41,7 +41,7 @@ const Header = () => {
                     <LogoSvg />
                 </div>
                 <div className={`sticky duration-800 transition-all origin-left flex ${ShowLinks && 'flex flex-col gap-6 justify-start h-full border-solid py-4 px-8'} text-black md:place-items-center md:justify-center md:gap-[2em] lg:gap-[8em] md:py-0`}>
-                    <ul className={`text-[#1B1B1B] text-[18px] font-[400px] ${ShowLinks ? 'flex flex-col gap-6 justify-start' : 'hidden'}  md:flex gap-10`}>
+                    <ul className={`text-[#1B1B1B] text-[14px] lg:text-[16px] font-[400px] ${ShowLinks ? 'flex flex-col gap-6 justify-start' : 'hidden'}  md:flex gap-10`}>
                         {!ShowLinks ? links.map((link: ILink) => (
                             <li key={link.id} className={`${ChangeHeader(link.link_url)} py-2 hover:duration-700 hover:text-main`}>
                                 <Link href={link.link_url}>

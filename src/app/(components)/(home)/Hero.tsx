@@ -22,8 +22,8 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className='flex z-10 flex-col gap-6 place justify-center'>
-                    <button className='text-white flex justify-between gap-4 place-items-center bg-gradient1 rounded-[10px] text-[16px] md:text-[28px] px-6 py-8 md:w-[410px] md:h-[127px] font-[600] relative md:pt-4'><span className='absolute left-10 top-0'><SearchIcon /></span>Find Surplus Chemicals <span><ArrowIcon /></span></button>
-                    <button className='text-white flex justify-between place-items-center bg-gradient2 rounded-[10px] text-[16px] md:text-[28px] py-8 px-6 md:w-[410px] md:h-[127px] font-[600] relative md:pt-4'><span className='absolute left-4 top-0'><BookMarkIcon /></span>Sell your Surpluses <span><ArrowIcon /></span></button>
+                    <button className='text-white flex justify-between gap-4 place-items-center bg-gradient1 rounded-[10px] text-[16px] lg:text-[28px] px-6 py-8 lg:w-[410px] lg:h-[127px] font-[600] relative lg:pt-4'><span className='absolute left-10 top-0'><SearchIcon /></span>Find Surplus Chemicals <span><ArrowIcon /></span></button>
+                    <button className='text-white flex justify-between place-items-center bg-gradient2 rounded-[10px] text-[16px] lg:text-[28px] py-8 px-6 lg:w-[410px] lg:h-[127px] font-[600] relative lg:pt-4'><span className='absolute left-4 top-0'><BookMarkIcon /></span>Sell your Surpluses <span><ArrowIcon /></span></button>
                 </div>
             </div>
             <div className='flex flex-col place-items-center pt-[6em] z-10 justify-center'>

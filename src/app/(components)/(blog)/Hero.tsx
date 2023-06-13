@@ -5,12 +5,12 @@ import React from 'react'
 
 const Hero = ({ initialProps }: any) => {
     return (
-        <Section className='relative min-h-[80vh] flex justify-center gap-8 md:gap-20 py-10 md:flex-row flex-col md:pt-20'>
-            <div className='flex flex-row md:max-w-[40vw] gap-4'>
+        <Section className='relative min-h-[80vh] flex justify-center gap-8 lg:gap-20 py-10 md:flex-row flex-col md:pt-20'>
+            <div className='flex flex-row lg:max-w-[40vw] gap-4'>
                 <div className='absolute -left-[80] sm:flex sm:absolute top-[0em] md:top-0 right-0'>
                     <UpperBlobIcon />
                 </div>
-                <div className='z-10 md:pr-[4em]'>
+                <div className='z-10 lg:pr-[4em]'>
                     <h1 className='text-3xl md:text-5xl title text-[#032D60] font-semibold'>{initialProps.title}</h1>
                     <p className='py-6 text-[#404040] text-[18px] font-normal'>{initialProps.body}</p>
                     <div className='z-10 flex flex-col place-items-center md:flex-row gap-4'>
@@ -19,7 +19,7 @@ const Hero = ({ initialProps }: any) => {
                     </div>
                 </div>
             </div>
-            <div className='bg-white z-10 md:w-[28vw] md:h-[50vh] rounded-xl shadow-box'>
+            <div className='bg-white z-10 w-full h-full lg:w-[28vw] lg:h-[50vh] rounded-xl shadow-box'>
                 <div className='max-h-[60%]'>
                     <Image src={'/(assets)/cosmetics.png'} alt='' width={400} height={100} className='md:max-w-[50vw] w-full' />
                 </div>
