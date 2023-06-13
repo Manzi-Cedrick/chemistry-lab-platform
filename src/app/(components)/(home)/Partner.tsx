@@ -8,14 +8,14 @@ const PartnerSection = () => {
     const { title, body } = jsonData.home.partnersection
     return (
         <div>
-            <div className='py-20 px-[52px] md:max-w-[88vw] relative flex flex-col justify-center place-items-center mx-auto'>
+            <div className='py-20 px-[52px] relative flex flex-col justify-center lg:place-items-center mx-auto'>
                 <div className='text-left md:px-20 z-10'>
                     <h1 className='text-[22px] text-secondary md:text-5xl font-[600]'>{title}</h1>
                 </div>
                 <div className='grid z-10 py-10 lg:grid-cols-4 grid-cols-1 sm:grid-cols-2 gap-6 place-items-center justify-center'>
                     {AssetsArr && AssetsArr.map((asset: IPreferedAssets) => {
                         return (
-                            <div key={asset.id} className='bg-white rounded-md lg:w-[16vw] flex flex-row w-full md:flex-col lg:h-[40vh] gap-6 place-items-center shadow-box py-6 px-4'>
+                            <div key={asset.id} className='bg-white rounded-md md:w-[36vw] lg:w-[20vw] lg:h-[44vh] flex flex-row w-full md:flex-col md:h-[40vh] gap-6 place-items-center shadow-box py-6 px-4'>
                                 <div>
                                     <span className={`text-white bg-[#F0F0F0] flex place-items-center justify-center font-bold h-12 w-12 rounded-md`}>{asset.icon}</span>
                                 </div>
@@ -28,7 +28,7 @@ const PartnerSection = () => {
                     })}
                 </div>
             </div>
-            <div className='py-24'>
+            <div className='py-20'>
                 <div className='sm:px-20 px-[14px] max-w-[88vw] mx-auto'>
                     <p className='text-[18px] md:text-[28px] font-medium pb-8'>{body}</p>
                 </div>

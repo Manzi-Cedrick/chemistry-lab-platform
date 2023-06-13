@@ -16,7 +16,7 @@ const Hero = () => {
                     <div className='absolute -left-[28em] lg:left-0 top-0'>
                         <LeftBlobSvg />
                     </div>
-                    <div className='z-10 md:max-w-[44vw] md:pr-[4em]'>
+                    <div className='z-10 md:max-w-[44vw] lg:pr-[4em]'>
                         <h1 dangerouslySetInnerHTML={{ __html: formattedTitle }} className='text-3xl md:text-5xl text-[#032D60] font-bold'></h1>
                         <p className='py-6 font-[400] text-[20px]'>{body}</p>
                     </div>

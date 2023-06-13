@@ -36,7 +36,7 @@ const Header = () => {
                     <span className='text-main'>000-000-000</span>
                 </p>
             </div>
-            <div className={`flex justify-between px-0 md:px-[165px] flex-col md:flex-row md:place-items-center py-3`}>
+            <div className={`flex justify-between px-20 lg:px-[165px] flex-col md:flex-row md:place-items-center py-3`}>
                 <div className={`h-12 flex justify-center place-items-center md:block md:h-14 md:w-14}`}>
                     <LogoSvg />
                 </div>
