@@ -8,10 +8,10 @@ import { RightSideBlob } from '../(icons)'
 const Contact = () => {
     const { title, body } = jsonData.home.contact
     return (
-        <Section className='py-10 relative min-h-screen flex items-center justify-end'>
+        <Section className='py-10 relative min-h-screen flex items-center flex-col justify-end'>
             <div className='flex md:flex-row flex-col justify-between'>
                 <div className='z-10 md:max-w-[50vw] pt-[2em] md:pr-[10em]'>
-                    <h1 className='text-3xl sm:text-5xl leading-relaxed text-secondary font-semibold'>{title}</h1>
+                    <h1 className='text-3xl sm:text-5xl text-secondary font-[600]'>{title}</h1>
                     <p className='py-10 pr-10'>{body}</p>
                 </div>
                 <div className='bg-white md:max-w-[30vw] z-10 shadow-box rounded-xl py-6 px-4 sm:px-10'>
@@ -21,7 +21,7 @@ const Contact = () => {
                     <ContactForm />
                 </div>
             </div>
-            <div className='absolute bottom-0 right-0'>
+            <div className='absolute bottom-0 top-0  right-0'>
                 <RightSideBlob />
             </div>
         </Section>

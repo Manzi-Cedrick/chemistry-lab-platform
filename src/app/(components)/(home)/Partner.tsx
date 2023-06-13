@@ -7,10 +7,10 @@ import jsonData from '../../(util)/text.json'
 const PartnerSection = () => {
     const { title, body } = jsonData.home.partnersection
     return (
-        <>
-            <div className='py-20 max-w-[88vw] relative flex flex-col justify-center place-items-center mx-auto'>
+        <div>
+            <div className='py-20 px-[52px] md:max-w-[88vw] relative flex flex-col justify-center place-items-center mx-auto'>
                 <div className='text-left md:px-20 z-10'>
-                    <h1 className='text-3xl text-secondary md:text-5xl font-semibold'>{title}</h1>
+                    <h1 className='text-[22px] text-secondary md:text-5xl font-[600]'>{title}</h1>
                 </div>
                 <div className='grid z-10 py-10 lg:grid-cols-4 grid-cols-1 sm:grid-cols-2 gap-6 place-items-center justify-center'>
                     {AssetsArr && AssetsArr.map((asset: IPreferedAssets) => {
@@ -28,9 +28,9 @@ const PartnerSection = () => {
                     })}
                 </div>
             </div>
-            <div>
-                <div className='sm:px-20 max-w-[88vw] mx-auto'>
-                    <p className='text-[28px] font-medium pb-8'>{body}</p>
+            <div className='py-24'>
+                <div className='sm:px-20 px-[14px] max-w-[88vw] mx-auto'>
+                    <p className='text-[18px] md:text-[28px] font-medium pb-8'>{body}</p>
                 </div>
                 <div className='bg-[#eaeaea] flex flex-row overflow-x-auto gap-16 py-8 '>
                     {PartnersArr && PartnersArr.map((partner: IPartner) => (
@@ -38,7 +38,7 @@ const PartnerSection = () => {
                     ))}
                 </div>
             </div>
-        </>
+        </div>
     )
 }
 

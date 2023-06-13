@@ -10,7 +10,7 @@ const Section = ({
     id?:string
 }) => {
   return (
-    <section className={`lg:px-24 sm:px-20 px-8 bg-white text-black ${className || ''}`} id={id}>
+    <section className={`lg:px-[165px] sm:px-20 px-[52px] bg-white text-black ${className || ''}`} id={id}>
         {children}
     </section>
   )

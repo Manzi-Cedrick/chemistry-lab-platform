@@ -67,11 +67,11 @@ const ContactForm = () => {
                     <p className='text-slate-500 text-center py-6'> Or </p>
                 </div>
                 <div className='flex flex-row gap-4'>
-                    <button type='button' className='w-full group flex place-items-center gap-8 justify-center bg-white border-2 border-main hover:bg-main hover:text-white duration-500 text-main font-semibold py-2 rounded-xl text-[14px] '>
+                    <button type='button' className='w-full group flex place-items-center gap-8 justify-center bg-white border-2 border-main hover:bg-main hover:text-white duration-500 text-main font-semibold py-2 rounded-xl px-4 text-[14px] '>
                         <GoogleIcon />
                         Google
                     </button>
-                    <button type='button' className='w-full group flex place-items-center gap-8 justify-center bg-white border-2 border-main hover:bg-main hover:text-white duration-500 text-main font-semibold py-2 rounded-xl text-[14px] '>
+                    <button type='button' className='w-full group flex place-items-center gap-8 justify-center bg-white border-2 border-main hover:bg-main hover:text-white duration-500 text-main font-semibold py-2 rounded-xl px-4 text-[14px] '>
                         <LinkedIcon />
                         LinkedIn
                     </button>

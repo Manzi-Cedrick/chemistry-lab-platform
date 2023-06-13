@@ -10,8 +10,8 @@ const CompanyManage = () => {
             <div className='flex absolute right-0  top-0 '>
                 <RightSideBlob />
             </div>
-            <div className='text-center flex justify-center place-items-center flex-col gap-4'>
-                <h1 className='text-[42px] text-secondary  z-[10] font-semibold py-2'>{title}</h1>
+            <div className='text-center flex justify-center place-items-center w-[70vw] flex-col gap-4'>
+                <h1 className='text-[22px] md:text-[42px] text-secondary z-[10] font-[600] py-2'>{title}</h1>
                 <span><DashedLine /></span>
             </div>
             <div className='grid py-20 lg:grid-cols-2 sm:grid-cols-1 md:grid-cols-2 grid-cols-1 gap-6 place-items-center justify-center'>

@@ -7,7 +7,7 @@ import { CallColoredSvg, CallIcon, EmailIcon } from '../(icons)'
 
 const Footer = () => {
     return (
-        <Section className='py-10 min-h-[30vh] relative md:px-[2em]' >
+        <div className='py-10 min-h-[30vh] relative lg:px-[165px] md:px-[2em]' >
             <div className='flex flex-col justify-around text-left md:text-left md:flex-row mx-auto px-10 lg:px-0 gap-6'>
                 <div className='text-black font-bold flex gap-8 flex-col text-[14px] lg:text-[16px]'>
                     <div className='h-12'>
@@ -63,7 +63,7 @@ const Footer = () => {
             <div className='bg-gray-50 absolute w-full left-0 right-0 flex-col gap-6 md:flex-row my-10 flex py-5 place-items-center '>
                 <p className='text-[#7E7E7E] text-center text-[12px] flex justify-center w-full font-semibold'>©2023 - Psurplus. All right reserved</p>
             </div>
-        </Section>
+        </div>
     )
 }
 

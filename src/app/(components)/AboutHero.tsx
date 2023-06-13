@@ -7,11 +7,11 @@ const AboutSection = () => {
     return (
         <Section className='relative flex justify-start min-h-[80vh] '>
             <div className='absolute -left-[80] sm:flex sm:absolute top-[0em] md:top-0 right-0'>
-                <UpperBlobIcon/>
+                <UpperBlobIcon />
             </div>
-            <div className='z-10 pt-32 md:pt-40 text-center md:px-20'>
-                <h1 className='text-3xl md:text-5xl text-secondary font-bold'>{title}</h1>
-                <p className='py-6 text-[20px] font-semibold md:px-10 text-[#404040]'>{body}</p>
+            <div className='z-10 pt-32 md:pt-20 text-center md:px-20'>
+                <h1 className='text-[22px] md:text-5xl text-secondary font-[600]'>{title}</h1>
+                <p className='py-6 text-[16px] font-[600] md:px-10 text-slate-600'>{body}</p>
             </div>
         </Section>
     )

@@ -7,9 +7,9 @@ const HeroSection = ({ initialProps }: any) => {
             <div className='absolute -left-[80] sm:flex sm:absolute top-[0em] md:top-0 right-0'>
                 <UpperBlobIcon />
             </div>
-            <div className='z-10 pt-32 md:pt-40 text-center md:px-20'>
-                <h1 className='text-3xl md:text-5xl text-secondary font-semibold'>{initialProps.title}</h1>
-                <p className='py-6 text-[18px] font-bold md:px-10 text-slate-600'>{initialProps.body}</p>
+            <div className='z-10 pt-32 md:pt-20 text-center md:px-20'>
+                <h1 className='text-[22px] md:text-5xl text-secondary font-[600]'>{initialProps.title}</h1>
+                <p className='py-6 text-[16px] font-[600] md:px-10 text-slate-600'>{initialProps.body}</p>
             </div>
         </Section>
     )
